@@ -17,7 +17,7 @@ jobs:
           python-version: "3.13"
 
       - name: Run removal script
-        run: python -c "from scraper import remove_contracts; remove_contracts()"
+        run: python -c "from contract import remove_contracts; remove_contracts()"
 
       - name: Commit and push removal
         run: |
