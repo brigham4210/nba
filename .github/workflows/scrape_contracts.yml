@@ -20,7 +20,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python -c "from scraper import scrape_contracts; scrape_contracts()"
+        run: python -c "from contract import scrape_contracts; scrape_contracts()"
 
       - name: Commit and push CSV
         run: |
