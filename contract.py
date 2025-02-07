@@ -52,7 +52,7 @@ def scrape_contracts():
         player_ids.add(player_id)
 
     # Save to CSV
-    csv_file = "nba_contracts.csv"
+    csv_file = "contracts.csv"
     with open(csv_file, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["player_id", "name", "team"] + salary_years)
         writer.writeheader()
@@ -62,7 +62,7 @@ def scrape_contracts():
 
 
 def remove_contracts():
-    open("nba_contracts.csv", "w").close()
+    open("contracts.csv", "w").close()
 
 
 if __name__ == "__main__":
