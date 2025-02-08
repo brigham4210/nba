@@ -64,10 +64,18 @@ def scrape_contracts():
         writer.writerows(players)
 
     print(f"Data saved to {csv_file}")
+    json_contracts()
 
 
 def remove_contracts():
     open("contracts.csv", "w").close()
+    json_contracts()
+
+
+def json_contracts():
+    df = pd.read_csv("contracts.csv")  # Change to your CSV file
+    df.to_json("contract.json", orient="records", indent=2)
+    print("Data saved to contract.json")
 
 
 def teams():
@@ -78,5 +86,4 @@ def teams():
 
 
 if __name__ == "__main__":
-    scrape_contracts()
-    # remove_contracts()
+    json_contracts()  # remove_contracts()
