@@ -75,9 +75,8 @@ def remove_contracts():
 
 def json_contracts():
     df = pd.read_csv("contracts.csv")  # Change to your CSV file
-
-    df.to_json("contract.json", orient="records", indent=2, force_ascii=False)
-
+    df.set_index("player_id", inplace=True)  # Set player_id as the key
+    df.to_json("contract.json", orient="index", indent=2, force_ascii=False)
     print("Data saved to contract.json")
 
 

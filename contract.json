@@ -1,6 +1,5 @@
-[
-  {
-    "player_id":"curryst01",
+{
+  "curryst01":{
     "name":"Stephen Curry",
     "team":"GSW",
     "2024-25":"$55,761,216",
@@ -10,8 +9,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"embiijo01",
+  "embiijo01":{
     "name":"Joel Embiid",
     "team":"PHI",
     "2024-25":"$51,415,938",
@@ -21,8 +19,7 @@
     "2028-29":"$67,263,472",
     "2029-30":null
   },
-  {
-    "player_id":"jokicni01",
+  "jokicni01":{
     "name":"Nikola Jokić",
     "team":"DEN",
     "2024-25":"$51,415,938",
@@ -32,8 +29,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"duranke01",
+  "duranke01":{
     "name":"Kevin Durant",
     "team":"PHO",
     "2024-25":"$51,179,021",
@@ -43,8 +39,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bealbr01",
+  "bealbr01":{
     "name":"Bradley Beal",
     "team":"PHO",
     "2024-25":"$50,203,930",
@@ -54,8 +49,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brownja02",
+  "brownja02":{
     "name":"Jaylen Brown",
     "team":"BOS",
     "2024-25":"$49,700,000",
@@ -65,8 +59,7 @@
     "2028-29":"$65,604,000",
     "2029-30":null
   },
-  {
-    "player_id":"bookede01",
+  "bookede01":{
     "name":"Devin Booker",
     "team":"PHO",
     "2024-25":"$49,205,800",
@@ -76,8 +69,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"townska01",
+  "townska01":{
     "name":"Karl-Anthony Towns",
     "team":"NYK",
     "2024-25":"$49,205,800",
@@ -87,8 +79,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"georgpa01",
+  "georgpa01":{
     "name":"Paul George",
     "team":"PHI",
     "2024-25":"$49,205,800",
@@ -98,8 +89,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"leonaka01",
+  "leonaka01":{
     "name":"Kawhi Leonard",
     "team":"LAC",
     "2024-25":"$49,205,800",
@@ -109,8 +99,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"butleji01",
+  "butleji01":{
     "name":"Jimmy Butler",
     "team":"MIA",
     "2024-25":"$48,798,677",
@@ -120,8 +109,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"antetgi01",
+  "antetgi01":{
     "name":"Giannis Antetokounmpo",
     "team":"MIL",
     "2024-25":"$48,787,676",
@@ -131,8 +119,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lillada01",
+  "lillada01":{
     "name":"Damian Lillard",
     "team":"MIL",
     "2024-25":"$48,787,676",
@@ -142,8 +129,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jamesle01",
+  "jamesle01":{
     "name":"LeBron James",
     "team":"LAL",
     "2024-25":"$48,728,845",
@@ -153,8 +139,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"goberru01",
+  "goberru01":{
     "name":"Rudy Gobert",
     "team":"MIN",
     "2024-25":"$43,827,586",
@@ -164,8 +149,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"davisan02",
+  "davisan02":{
     "name":"Anthony Davis",
     "team":"DAL",
     "2024-25":"$43,219,440",
@@ -175,8 +159,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lavinza01",
+  "lavinza01":{
     "name":"Zach LaVine",
     "team":"SAC",
     "2024-25":"$43,031,940",
@@ -186,8 +169,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"doncilu01",
+  "doncilu01":{
     "name":"Luka Dončić",
     "team":"LAL",
     "2024-25":"$43,031,940",
@@ -197,8 +179,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"youngtr01",
+  "youngtr01":{
     "name":"Trae Young",
     "team":"ATL",
     "2024-25":"$43,031,940",
@@ -208,8 +189,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"vanvlfr01",
+  "vanvlfr01":{
     "name":"Fred VanVleet",
     "team":"HOU",
     "2024-25":"$42,846,615",
@@ -219,8 +199,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"edwaran01",
+  "edwaran01":{
     "name":"Anthony Edwards",
     "team":"MIN",
     "2024-25":"$42,176,400",
@@ -230,8 +209,7 @@
     "2028-29":"$55,672,848",
     "2029-30":null
   },
-  {
-    "player_id":"halibty01",
+  "halibty01":{
     "name":"Tyrese Haliburton",
     "team":"IND",
     "2024-25":"$42,176,400",
@@ -241,8 +219,7 @@
     "2028-29":"$55,672,848",
     "2029-30":null
   },
-  {
-    "player_id":"markkla01",
+  "markkla01":{
     "name":"Lauri Markkanen",
     "team":"UTA",
     "2024-25":"$42,176,400",
@@ -252,8 +229,7 @@
     "2028-29":"$53,536,209",
     "2029-30":null
   },
-  {
-    "player_id":"siakapa01",
+  "siakapa01":{
     "name":"Pascal Siakam",
     "team":"IND",
     "2024-25":"$42,176,400",
@@ -263,8 +239,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"irvinky01",
+  "irvinky01":{
     "name":"Kyrie Irving",
     "team":"DAL",
     "2024-25":"$41,000,000",
@@ -274,8 +249,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sabondo01",
+  "sabondo01":{
     "name":"Domantas Sabonis",
     "team":"SAC",
     "2024-25":"$40,500,000",
@@ -285,8 +259,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"simmobe01",
+  "simmobe01":{
     "name":"Ben Simmons",
     "team":"BRK",
     "2024-25":"$40,338,144",
@@ -296,8 +269,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willizi01",
+  "willizi01":{
     "name":"Zion Williamson",
     "team":"NOP",
     "2024-25":"$36,725,670",
@@ -307,8 +279,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"moranja01",
+  "moranja01":{
     "name":"Ja Morant",
     "team":"MEM",
     "2024-25":"$36,725,670",
@@ -318,8 +289,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"garlada01",
+  "garlada01":{
     "name":"Darius Garland",
     "team":"CLE",
     "2024-25":"$36,725,670",
@@ -329,8 +299,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"anunoog01",
+  "anunoog01":{
     "name":"OG Anunoby",
     "team":"NYK",
     "2024-25":"$36,637,932",
@@ -340,8 +309,7 @@
     "2028-29":"$48,362,068",
     "2029-30":null
   },
-  {
-    "player_id":"murraja01",
+  "murraja01":{
     "name":"Jamal Murray",
     "team":"DEN",
     "2024-25":"$36,016,200",
@@ -351,8 +319,7 @@
     "2028-29":"$57,528,684",
     "2029-30":null
   },
-  {
-    "player_id":"ingrabr01",
+  "ingrabr01":{
     "name":"Brandon Ingram",
     "team":"NOP",
     "2024-25":"$36,016,200",
@@ -362,8 +329,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gilgesh01",
+  "gilgesh01":{
     "name":"Shai Gilgeous-Alexander",
     "team":"OKC",
     "2024-25":"$35,859,950",
@@ -373,8 +339,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"portemi01",
+  "portemi01":{
     "name":"Michael Porter Jr.",
     "team":"DEN",
     "2024-25":"$35,859,950",
@@ -384,8 +349,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mitchdo01",
+  "mitchdo01":{
     "name":"Donovan Mitchell",
     "team":"CLE",
     "2024-25":"$35,410,310",
@@ -395,8 +359,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"maxeyty01",
+  "maxeyty01":{
     "name":"Tyrese Maxey",
     "team":"PHI",
     "2024-25":"$35,147,000",
@@ -406,8 +369,7 @@
     "2028-29":"$46,394,040",
     "2029-30":null
   },
-  {
-    "player_id":"ballla01",
+  "ballla01":{
     "name":"LaMelo Ball",
     "team":"CHO",
     "2024-25":"$35,147,000",
@@ -417,8 +379,7 @@
     "2028-29":"$46,394,040",
     "2029-30":null
   },
-  {
-    "player_id":"tatumja01",
+  "tatumja01":{
     "name":"Jayson Tatum",
     "team":"BOS",
     "2024-25":"$34,848,340",
@@ -428,8 +389,7 @@
     "2028-29":"$67,116,798",
     "2029-30":"$71,446,914"
   },
-  {
-    "player_id":"adebaba01",
+  "adebaba01":{
     "name":"Bam Adebayo",
     "team":"MIA",
     "2024-25":"$34,848,340",
@@ -439,8 +399,7 @@
     "2028-29":"$56,507,892",
     "2029-30":null
   },
-  {
-    "player_id":"foxde01",
+  "foxde01":{
     "name":"De'Aaron Fox",
     "team":"SAS",
     "2024-25":"$34,848,340",
@@ -450,8 +409,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"banede01",
+  "banede01":{
     "name":"Desmond Bane",
     "team":"MEM",
     "2024-25":"$34,005,250",
@@ -461,8 +419,7 @@
     "2028-29":"$44,886,930",
     "2029-30":null
   },
-  {
-    "player_id":"aytonde01",
+  "aytonde01":{
     "name":"Deandre Ayton",
     "team":"POR",
     "2024-25":"$34,005,126",
@@ -472,8 +429,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hardeja01",
+  "hardeja01":{
     "name":"James Harden",
     "team":"LAC",
     "2024-25":"$33,653,846",
@@ -483,8 +439,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mccolcj01",
+  "mccolcj01":{
     "name":"CJ McCollum",
     "team":"NOP",
     "2024-25":"$33,333,333",
@@ -494,8 +449,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"randlju01",
+  "randlju01":{
     "name":"Julius Randle",
     "team":"MIN",
     "2024-25":"$33,073,920",
@@ -505,8 +459,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"quickim01",
+  "quickim01":{
     "name":"Immanuel Quickley",
     "team":"TOR",
     "2024-25":"$32,500,000",
@@ -516,8 +469,7 @@
     "2028-29":"$32,500,000",
     "2029-30":null
   },
-  {
-    "player_id":"middlkh01",
+  "middlkh01":{
     "name":"Khris Middleton",
     "team":"MIL",
     "2024-25":"$31,666,667",
@@ -527,8 +479,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"holidjr01",
+  "holidjr01":{
     "name":"Jrue Holiday",
     "team":"BOS",
     "2024-25":"$30,000,000",
@@ -538,8 +489,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"harteis01",
+  "harteis01":{
     "name":"Isaiah Hartenstein",
     "team":"OKC",
     "2024-25":"$30,000,000",
@@ -549,8 +499,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"grantje01",
+  "grantje01":{
     "name":"Jerami Grant",
     "team":"POR",
     "2024-25":"$29,793,104",
@@ -560,8 +509,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"poolejo01",
+  "poolejo01":{
     "name":"Jordan Poole",
     "team":"WAS",
     "2024-25":"$29,651,786",
@@ -571,8 +519,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"murrade01",
+  "murrade01":{
     "name":"Dejounte Murray",
     "team":"NOP",
     "2024-25":"$29,517,135",
@@ -582,8 +529,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"vassede01",
+  "vassede01":{
     "name":"Devin Vassell",
     "team":"SAS",
     "2024-25":"$29,347,826",
@@ -593,8 +539,7 @@
     "2028-29":"$27,000,000",
     "2029-30":null
   },
-  {
-    "player_id":"porzikr01",
+  "porzikr01":{
     "name":"Kristaps Porziņģis",
     "team":"BOS",
     "2024-25":"$29,268,293",
@@ -604,8 +549,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"herroty01",
+  "herroty01":{
     "name":"Tyler Herro",
     "team":"MIA",
     "2024-25":"$29,000,000",
@@ -615,8 +559,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"claxtni01",
+  "claxtni01":{
     "name":"Nic Claxton",
     "team":"BRK",
     "2024-25":"$27,556,817",
@@ -626,8 +569,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bridgmi02",
+  "bridgmi02":{
     "name":"Miles Bridges",
     "team":"CHO",
     "2024-25":"$27,173,913",
@@ -637,8 +579,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"collijo01",
+  "collijo01":{
     "name":"John Collins",
     "team":"UTA",
     "2024-25":"$26,580,000",
@@ -648,8 +589,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wiggian01",
+  "wiggian01":{
     "name":"Andrew Wiggins",
     "team":"GSW",
     "2024-25":"$26,276,786",
@@ -659,8 +599,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"simonan01",
+  "simonan01":{
     "name":"Anfernee Simons",
     "team":"POR",
     "2024-25":"$25,892,857",
@@ -670,8 +609,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"barrerj01",
+  "barrerj01":{
     "name":"RJ Barrett",
     "team":"TOR",
     "2024-25":"$25,794,643",
@@ -681,8 +619,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"harrito02",
+  "harrito02":{
     "name":"Tobias Harris",
     "team":"DET",
     "2024-25":"$25,365,854",
@@ -692,8 +629,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jacksja02",
+  "jacksja02":{
     "name":"Jaren Jackson Jr.",
     "team":"MEM",
     "2024-25":"$25,257,798",
@@ -703,8 +639,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"isaacjo01",
+  "isaacjo01":{
     "name":"Jonathan Isaac",
     "team":"ORL",
     "2024-25":"$25,000,000",
@@ -714,8 +649,7 @@
     "2028-29":"$15,000,000",
     "2029-30":null
   },
-  {
-    "player_id":"brunsja01",
+  "brunsja01":{
     "name":"Jalen Brunson",
     "team":"NYK",
     "2024-25":"$24,960,001",
@@ -725,8 +659,7 @@
     "2028-29":"$43,330,561",
     "2029-30":null
   },
-  {
-    "player_id":"roziete01",
+  "roziete01":{
     "name":"Terry Rozier",
     "team":"MIA",
     "2024-25":"$24,924,126",
@@ -736,8 +669,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greendr01",
+  "greendr01":{
     "name":"Draymond Green",
     "team":"GSW",
     "2024-25":"$24,107,143",
@@ -747,8 +679,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kuzmaky01",
+  "kuzmaky01":{
     "name":"Kyle Kuzma",
     "team":"WAS",
     "2024-25":"$23,522,727",
@@ -758,8 +689,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"derozde01",
+  "derozde01":{
     "name":"DeMar DeRozan",
     "team":"SAC",
     "2024-25":"$23,400,000",
@@ -769,8 +699,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bridgmi01",
+  "bridgmi01":{
     "name":"Mikal Bridges",
     "team":"NYK",
     "2024-25":"$23,300,000",
@@ -780,8 +709,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mcdanja02",
+  "mcdanja02":{
     "name":"Jaden McDaniels",
     "team":"MIN",
     "2024-25":"$23,017,242",
@@ -791,8 +719,7 @@
     "2028-29":"$30,382,755",
     "2029-30":null
   },
-  {
-    "player_id":"brownbr01",
+  "brownbr01":{
     "name":"Bruce Brown",
     "team":"TOR",
     "2024-25":"$23,000,000",
@@ -802,8 +729,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lopezbr01",
+  "lopezbr01":{
     "name":"Brook Lopez",
     "team":"MIL",
     "2024-25":"$23,000,000",
@@ -813,8 +739,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gordoaa01",
+  "gordoaa01":{
     "name":"Aaron Gordon",
     "team":"DEN",
     "2024-25":"$22,841,455",
@@ -824,8 +749,7 @@
     "2028-29":"$37,094,523",
     "2029-30":null
   },
-  {
-    "player_id":"caldwke01",
+  "caldwke01":{
     "name":"Kentavious Caldwell-Pope",
     "team":"ORL",
     "2024-25":"$22,757,000",
@@ -835,8 +759,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnsca02",
+  "johnsca02":{
     "name":"Cameron Johnson",
     "team":"BRK",
     "2024-25":"$22,500,000",
@@ -846,8 +769,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brogdma01",
+  "brogdma01":{
     "name":"Malcolm Brogdon",
     "team":"WAS",
     "2024-25":"$22,500,000",
@@ -857,8 +779,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"capelca01",
+  "capelca01":{
     "name":"Clint Capela",
     "team":"ATL",
     "2024-25":"$22,265,280",
@@ -868,8 +789,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brookdi01",
+  "brookdi01":{
     "name":"Dillon Brooks",
     "team":"HOU",
     "2024-25":"$22,255,493",
@@ -879,8 +799,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"huntede01",
+  "huntede01":{
     "name":"De'Andre Hunter",
     "team":"ATL",
     "2024-25":"$21,696,429",
@@ -890,8 +809,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"balllo01",
+  "balllo01":{
     "name":"Lonzo Ball",
     "team":"CHI",
     "2024-25":"$21,395,348",
@@ -901,8 +819,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"smartma01",
+  "smartma01":{
     "name":"Marcus Smart",
     "team":"MEM",
     "2024-25":"$20,210,284",
@@ -912,8 +829,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"whitede01",
+  "whitede01":{
     "name":"Derrick White",
     "team":"BOS",
     "2024-25":"$20,071,429",
@@ -923,8 +839,7 @@
     "2028-29":"$34,844,000",
     "2029-30":null
   },
-  {
-    "player_id":"allenja01",
+  "allenja01":{
     "name":"Jarrett Allen",
     "team":"CLE",
     "2024-25":"$20,000,000",
@@ -934,8 +849,7 @@
     "2028-29":"$32,480,000",
     "2029-30":null
   },
-  {
-    "player_id":"vucevni01",
+  "vucevni01":{
     "name":"Nikola Vučević",
     "team":"CHI",
     "2024-25":"$20,000,000",
@@ -945,8 +859,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"turnemy01",
+  "turnemy01":{
     "name":"Myles Turner",
     "team":"IND",
     "2024-25":"$19,928,500",
@@ -956,8 +869,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"poeltja01",
+  "poeltja01":{
     "name":"Jakob Poeltl",
     "team":"TOR",
     "2024-25":"$19,500,000",
@@ -967,8 +879,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"robindu01",
+  "robindu01":{
     "name":"Duncan Robinson",
     "team":"MIA",
     "2024-25":"$19,406,000",
@@ -978,8 +889,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"powelno01",
+  "powelno01":{
     "name":"Norman Powell",
     "team":"LAC",
     "2024-25":"$19,241,379",
@@ -989,8 +899,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bogdabo02",
+  "bogdabo02":{
     "name":"Bojan Bogdanović",
     "team":"BRK",
     "2024-25":"$19,032,850",
@@ -1000,8 +909,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnske04",
+  "johnske04":{
     "name":"Keldon Johnson",
     "team":"SAS",
     "2024-25":"$19,000,000",
@@ -1011,8 +919,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"russeda01",
+  "russeda01":{
     "name":"D'Angelo Russell",
     "team":"BRK",
     "2024-25":"$18,692,307",
@@ -1022,8 +929,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sextoco01",
+  "sextoco01":{
     "name":"Collin Sexton",
     "team":"UTA",
     "2024-25":"$18,350,000",
@@ -1033,8 +939,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hartjo01",
+  "hartjo01":{
     "name":"Josh Hart",
     "team":"NYK",
     "2024-25":"$18,144,000",
@@ -1044,8 +949,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"nurkiju01",
+  "nurkiju01":{
     "name":"Jusuf Nurkić",
     "team":"PHO",
     "2024-25":"$18,125,000",
@@ -1055,8 +959,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willipa01",
+  "willipa01":{
     "name":"Patrick Williams",
     "team":"CHI",
     "2024-25":"$18,000,000",
@@ -1066,8 +969,7 @@
     "2028-29":"$18,000,000",
     "2029-30":null
   },
-  {
-    "player_id":"barneha02",
+  "barneha02":{
     "name":"Harrison Barnes",
     "team":"SAS",
     "2024-25":"$18,000,000",
@@ -1077,8 +979,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"monkma01",
+  "monkma01":{
     "name":"Malik Monk",
     "team":"SAC",
     "2024-25":"$17,405,203",
@@ -1088,8 +989,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bogdabo01",
+  "bogdabo01":{
     "name":"Bogdan Bogdanović",
     "team":"ATL",
     "2024-25":"$17,260,000",
@@ -1099,8 +999,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hachiru01",
+  "hachiru01":{
     "name":"Rui Hachimura",
     "team":"LAL",
     "2024-25":"$17,000,000",
@@ -1110,8 +1009,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"huertke01",
+  "huertke01":{
     "name":"Kevin Huerter",
     "team":"CHI",
     "2024-25":"$16,830,357",
@@ -1121,8 +1019,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"colliza01",
+  "colliza01":{
     "name":"Zach Collins",
     "team":"CHI",
     "2024-25":"$16,741,200",
@@ -1132,8 +1029,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"leverca01",
+  "leverca01":{
     "name":"Caris LeVert",
     "team":"CLE",
     "2024-25":"$16,615,384",
@@ -1143,8 +1039,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dortlu01",
+  "dortlu01":{
     "name":"Luguentz Dort",
     "team":"OKC",
     "2024-25":"$16,500,000",
@@ -1154,8 +1049,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hardati02",
+  "hardati02":{
     "name":"Tim Hardaway Jr.",
     "team":"DET",
     "2024-25":"$16,193,183",
@@ -1165,8 +1059,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thompkl01",
+  "thompkl01":{
     "name":"Klay Thompson",
     "team":"DAL",
     "2024-25":"$15,873,016",
@@ -1176,8 +1069,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"avdijde01",
+  "avdijde01":{
     "name":"Deni Avdija",
     "team":"POR",
     "2024-25":"$15,625,000",
@@ -1187,8 +1079,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"allengr01",
+  "allengr01":{
     "name":"Grayson Allen",
     "team":"PHO",
     "2024-25":"$15,625,000",
@@ -1198,8 +1089,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"washipj01",
+  "washipj01":{
     "name":"P.J. Washington",
     "team":"DAL",
     "2024-25":"$15,500,000",
@@ -1209,8 +1099,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"strusma01",
+  "strusma01":{
     "name":"Max Strus",
     "team":"CLE",
     "2024-25":"$15,212,068",
@@ -1220,8 +1109,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"stewais01",
+  "stewais01":{
     "name":"Isaiah Stewart",
     "team":"DET",
     "2024-25":"$15,000,000",
@@ -1231,8 +1119,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"finnedo01",
+  "finnedo01":{
     "name":"Dorian Finney-Smith",
     "team":"LAL",
     "2024-25":"$14,924,167",
@@ -1242,8 +1129,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"robinmi01",
+  "robinmi01":{
     "name":"Mitchell Robinson",
     "team":"NYK",
     "2024-25":"$14,318,182",
@@ -1253,8 +1139,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"clarkjo01",
+  "clarkjo01":{
     "name":"Jordan Clarkson",
     "team":"UTA",
     "2024-25":"$14,092,577",
@@ -1264,8 +1149,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"okongon01",
+  "okongon01":{
     "name":"Onyeka Okongwu",
     "team":"ATL",
     "2024-25":"$14,000,000",
@@ -1275,8 +1159,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reidna01",
+  "reidna01":{
     "name":"Naz Reid",
     "team":"MIN",
     "2024-25":"$13,986,432",
@@ -1286,8 +1169,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"cunnica01",
+  "cunnica01":{
     "name":"Cade Cunningham",
     "team":"DET",
     "2024-25":"$13,940,809",
@@ -1297,8 +1179,7 @@
     "2028-29":"$47,940,570",
     "2029-30":"$51,033,510"
   },
-  {
-    "player_id":"gaffoda01",
+  "gaffoda01":{
     "name":"Daniel Gafford",
     "team":"DAL",
     "2024-25":"$13,394,160",
@@ -1308,8 +1189,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willigr01",
+  "willigr01":{
     "name":"Grant Williams",
     "team":"CHO",
     "2024-25":"$13,025,250",
@@ -1319,8 +1199,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"schrode01",
+  "schrode01":{
     "name":"Dennis Schröder",
     "team":"GSW",
     "2024-25":"$13,025,250",
@@ -1330,8 +1209,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"joeis01",
+  "joeis01":{
     "name":"Isaiah Joe",
     "team":"OKC",
     "2024-25":"$12,991,650",
@@ -1341,8 +1219,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"joneshe01",
+  "joneshe01":{
     "name":"Herbert Jones",
     "team":"NOP",
     "2024-25":"$12,976,362",
@@ -1352,8 +1229,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reaveau01",
+  "reaveau01":{
     "name":"Austin Reaves",
     "team":"LAL",
     "2024-25":"$12,976,362",
@@ -1363,8 +1239,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"toppiob01",
+  "toppiob01":{
     "name":"Obi Toppin",
     "team":"IND",
     "2024-25":"$12,975,000",
@@ -1374,8 +1249,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"anthoco01",
+  "anthoco01":{
     "name":"Cole Anthony",
     "team":"ORL",
     "2024-25":"$12,900,000",
@@ -1385,8 +1259,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"meltode01",
+  "meltode01":{
     "name":"De'Anthony Melton",
     "team":"BRK",
     "2024-25":"$12,822,000",
@@ -1396,8 +1269,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"olynyke01",
+  "olynyke01":{
     "name":"Kelly Olynyk",
     "team":"TOR",
     "2024-25":"$12,804,878",
@@ -1407,8 +1279,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wembavi01",
+  "wembavi01":{
     "name":"Victor Wembanyama",
     "team":"SAS",
     "2024-25":"$12,768,960",
@@ -1418,8 +1289,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greenjo02",
+  "greenjo02":{
     "name":"Josh Green",
     "team":"CHO",
     "2024-25":"$12,654,321",
@@ -1429,8 +1299,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"holmeri01",
+  "holmeri01":{
     "name":"Richaun Holmes",
     "team":"WAS",
     "2024-25":"$12,648,321",
@@ -1440,8 +1309,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"adamsst01",
+  "adamsst01":{
     "name":"Steven Adams",
     "team":"HOU",
     "2024-25":"$12,600,000",
@@ -1451,8 +1319,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"portibo01",
+  "portibo01":{
     "name":"Bobby Portis",
     "team":"MIL",
     "2024-25":"$12,578,286",
@@ -1462,8 +1329,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"risacza01",
+  "risacza01":{
     "name":"Zaccharie Risacher",
     "team":"ATL",
     "2024-25":"$12,569,040",
@@ -1473,8 +1339,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"clarkbr01",
+  "clarkbr01":{
     "name":"Brandon Clarke",
     "team":"MEM",
     "2024-25":"$12,500,000",
@@ -1484,8 +1349,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"baglema01",
+  "baglema01":{
     "name":"Marvin Bagley III",
     "team":"WAS",
     "2024-25":"$12,500,000",
@@ -1495,8 +1359,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greenja05",
+  "greenja05":{
     "name":"Jalen Green",
     "team":"HOU",
     "2024-25":"$12,483,048",
@@ -1506,8 +1369,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"williro04",
+  "williro04":{
     "name":"Robert Williams",
     "team":"POR",
     "2024-25":"$12,428,571",
@@ -1517,8 +1379,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"banchpa01",
+  "banchpa01":{
     "name":"Paolo Banchero",
     "team":"ORL",
     "2024-25":"$12,160,800",
@@ -1528,8 +1389,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"whiteco01",
+  "whiteco01":{
     "name":"Coby White",
     "team":"CHI",
     "2024-25":"$12,000,000",
@@ -1539,8 +1399,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"cartewe01",
+  "cartewe01":{
     "name":"Wendell Carter Jr.",
     "team":"ORL",
     "2024-25":"$11,950,000",
@@ -1550,8 +1409,7 @@
     "2028-29":"$20,998,320",
     "2029-30":null
   },
-  {
-    "player_id":"zubaciv01",
+  "zubaciv01":{
     "name":"Ivica Zubac",
     "team":"LAC",
     "2024-25":"$11,743,210",
@@ -1561,8 +1419,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"tuckepj01",
+  "tuckepj01":{
     "name":"P.J. Tucker",
     "team":"UTA",
     "2024-25":"$11,539,000",
@@ -1572,8 +1429,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"divindo01",
+  "divindo01":{
     "name":"Donte DiVincenzo",
     "team":"MIN",
     "2024-25":"$11,445,000",
@@ -1583,8 +1439,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"millebr02",
+  "millebr02":{
     "name":"Brandon Miller",
     "team":"CHO",
     "2024-25":"$11,424,600",
@@ -1594,8 +1449,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mannte01",
+  "mannte01":{
     "name":"Terance Mann",
     "team":"LAC",
     "2024-25":"$11,423,077",
@@ -1605,8 +1459,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sarral01",
+  "sarral01":{
     "name":"Alex Sarr",
     "team":"WAS",
     "2024-25":"$11,245,680",
@@ -1616,8 +1469,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mobleev01",
+  "mobleev01":{
     "name":"Evan Mobley",
     "team":"CLE",
     "2024-25":"$11,227,657",
@@ -1627,8 +1479,7 @@
     "2028-29":"$47,940,570",
     "2029-30":"$51,033,510"
   },
-  {
-    "player_id":"nancela02",
+  "nancela02":{
     "name":"Larry Nance Jr.",
     "team":"ATL",
     "2024-25":"$11,205,000",
@@ -1638,8 +1489,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thybuma01",
+  "thybuma01":{
     "name":"Matisse Thybulle",
     "team":"POR",
     "2024-25":"$11,025,000",
@@ -1649,8 +1499,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"nesmiaa01",
+  "nesmiaa01":{
     "name":"Aaron Nesmith",
     "team":"IND",
     "2024-25":"$11,000,000",
@@ -1660,8 +1509,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"vincega01",
+  "vincega01":{
     "name":"Gabe Vincent",
     "team":"LAL",
     "2024-25":"$11,000,000",
@@ -1671,8 +1519,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"klebima01",
+  "klebima01":{
     "name":"Maxi Kleber",
     "team":"LAL",
     "2024-25":"$11,000,000",
@@ -1682,8 +1529,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wagnemo01",
+  "wagnemo01":{
     "name":"Moritz Wagner",
     "team":"ORL",
     "2024-25":"$11,000,000",
@@ -1693,8 +1539,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"holmgch01",
+  "holmgch01":{
     "name":"Chet Holmgren",
     "team":"OKC",
     "2024-25":"$10,880,640",
@@ -1704,8 +1549,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bouchch01",
+  "bouchch01":{
     "name":"Chris Boucher",
     "team":"TOR",
     "2024-25":"$10,810,000",
@@ -1715,8 +1559,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"vandeja01",
+  "vandeja01":{
     "name":"Jarred Vanderbilt",
     "team":"LAL",
     "2024-25":"$10,714,286",
@@ -1726,8 +1569,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wiggiaa01",
+  "wiggiaa01":{
     "name":"Aaron Wiggins",
     "team":"OKC",
     "2024-25":"$10,514,017",
@@ -1737,8 +1579,7 @@
     "2028-29":"$7,990,655",
     "2029-30":null
   },
-  {
-    "player_id":"paulch01",
+  "paulch01":{
     "name":"Chris Paul",
     "team":"SAS",
     "2024-25":"$10,460,000",
@@ -1748,8 +1589,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hendesc01",
+  "hendesc01":{
     "name":"Scoot Henderson",
     "team":"POR",
     "2024-25":"$10,259,160",
@@ -1759,8 +1599,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"okorois01",
+  "okorois01":{
     "name":"Isaac Okoro",
     "team":"CLE",
     "2024-25":"$10,185,186",
@@ -1770,8 +1609,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"barnesc01",
+  "barnesc01":{
     "name":"Scottie Barnes",
     "team":"TOR",
     "2024-25":"$10,130,980",
@@ -1781,8 +1619,7 @@
     "2028-29":"$47,940,570",
     "2029-30":"$51,033,510"
   },
-  {
-    "player_id":"sheppre01",
+  "sheppre01":{
     "name":"Reed Sheppard",
     "team":"HOU",
     "2024-25":"$10,098,960",
@@ -1792,8 +1629,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"conlemi01",
+  "conlemi01":{
     "name":"Mike Conley",
     "team":"MIN",
     "2024-25":"$9,975,962",
@@ -1803,8 +1639,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"valanjo01",
+  "valanjo01":{
     "name":"Jonas Valančiūnas",
     "team":"SAC",
     "2024-25":"$9,900,000",
@@ -1814,8 +1649,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"carusal01",
+  "carusal01":{
     "name":"Alex Caruso",
     "team":"OKC",
     "2024-25":"$9,890,000",
@@ -1825,8 +1659,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"smithja05",
+  "smithja05":{
     "name":"Jabari Smith Jr.",
     "team":"HOU",
     "2024-25":"$9,770,880",
@@ -1836,8 +1669,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jonesde02",
+  "jonesde02":{
     "name":"Derrick Jones Jr.",
     "team":"LAC",
     "2024-25":"$9,523,810",
@@ -1847,8 +1679,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"horfoal01",
+  "horfoal01":{
     "name":"Al Horford",
     "team":"BOS",
     "2024-25":"$9,500,000",
@@ -1858,8 +1689,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"connapa01",
+  "connapa01":{
     "name":"Pat Connaughton",
     "team":"MIL",
     "2024-25":"$9,423,869",
@@ -1869,8 +1699,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"onealro01",
+  "onealro01":{
     "name":"Royce O'Neale",
     "team":"PHO",
     "2024-25":"$9,375,000",
@@ -1880,8 +1709,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mccontj01",
+  "mccontj01":{
     "name":"T.J. McConnell",
     "team":"IND",
     "2024-25":"$9,300,000",
@@ -1891,8 +1719,7 @@
     "2028-29":"$11,800,000",
     "2029-30":null
   },
-  {
-    "player_id":"kennalu01",
+  "kennalu01":{
     "name":"Luke Kennard",
     "team":"MEM",
     "2024-25":"$9,250,000",
@@ -1902,8 +1729,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thompam01",
+  "thompam01":{
     "name":"Amen Thompson",
     "team":"HOU",
     "2024-25":"$9,249,960",
@@ -1913,8 +1739,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"suggsja01",
+  "suggsja01":{
     "name":"Jalen Suggs",
     "team":"ORL",
     "2024-25":"$9,188,385",
@@ -1924,8 +1749,7 @@
     "2028-29":"$26,800,000",
     "2029-30":"$26,700,000"
   },
-  {
-    "player_id":"paytoga02",
+  "paytoga02":{
     "name":"Gary Payton II",
     "team":"GSW",
     "2024-25":"$9,130,000",
@@ -1935,8 +1759,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"castlst01",
+  "castlst01":{
     "name":"Stephon Castle",
     "team":"SAS",
     "2024-25":"$9,105,120",
@@ -1946,8 +1769,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jonestr01",
+  "jonestr01":{
     "name":"Tre Jones",
     "team":"CHI",
     "2024-25":"$9,104,167",
@@ -1957,8 +1779,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bitadgo01",
+  "bitadgo01":{
     "name":"Goga Bitadze",
     "team":"ORL",
     "2024-25":"$9,057,971",
@@ -1968,8 +1789,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"nnajize01",
+  "nnajize01":{
     "name":"Zeke Nnaji",
     "team":"DEN",
     "2024-25":"$8,888,889",
@@ -1979,8 +1799,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"murrake02",
+  "murrake02":{
     "name":"Keegan Murray",
     "team":"SAC",
     "2024-25":"$8,809,560",
@@ -1990,8 +1809,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hieldbu01",
+  "hieldbu01":{
     "name":"Buddy Hield",
     "team":"GSW",
     "2024-25":"$8,780,488",
@@ -2001,8 +1819,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"anderky01",
+  "anderky01":{
     "name":"Kyle Anderson",
     "team":"GSW",
     "2024-25":"$8,780,488",
@@ -2012,8 +1829,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"marshna01",
+  "marshna01":{
     "name":"Naji Marshall",
     "team":"DAL",
     "2024-25":"$8,571,429",
@@ -2023,8 +1839,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"smithja04",
+  "smithja04":{
     "name":"Jalen Smith",
     "team":"CHI",
     "2024-25":"$8,571,429",
@@ -2034,8 +1849,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"niangge01",
+  "niangge01":{
     "name":"Georges Niang",
     "team":"CLE",
     "2024-25":"$8,500,000",
@@ -2045,8 +1859,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thompau01",
+  "thompau01":{
     "name":"Ausar Thompson",
     "team":"DET",
     "2024-25":"$8,376,000",
@@ -2056,8 +1869,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"giddejo01",
+  "giddejo01":{
     "name":"Josh Giddey",
     "team":"CHI",
     "2024-25":"$8,352,367",
@@ -2067,8 +1879,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"okogijo01",
+  "okogijo01":{
     "name":"Josh Okogie",
     "team":"CHO",
     "2024-25":"$8,250,000",
@@ -2078,8 +1889,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hollaro01",
+  "hollaro01":{
     "name":"Ron Holland",
     "team":"DET",
     "2024-25":"$8,245,320",
@@ -2089,8 +1899,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"martica02",
+  "martica02":{
     "name":"Caleb Martin",
     "team":"DAL",
     "2024-25":"$8,149,001",
@@ -2100,8 +1909,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"martico01",
+  "martico01":{
     "name":"Cody Martin",
     "team":"CHO",
     "2024-25":"$8,120,000",
@@ -2111,8 +1919,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"landajo01",
+  "landajo01":{
     "name":"Jock Landale",
     "team":"HOU",
     "2024-25":"$8,000,000",
@@ -2122,8 +1929,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lylestr01",
+  "lylestr01":{
     "name":"Trey Lyles",
     "team":"SAC",
     "2024-25":"$8,000,000",
@@ -2133,8 +1939,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greenje02",
+  "greenje02":{
     "name":"Jeff Green",
     "team":"HOU",
     "2024-25":"$8,000,000",
@@ -2144,8 +1949,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"looneke01",
+  "looneke01":{
     "name":"Kevon Looney",
     "team":"GSW",
     "2024-25":"$8,000,000",
@@ -2155,8 +1959,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"oubreke01",
+  "oubreke01":{
     "name":"Kelly Oubre Jr.",
     "team":"PHI",
     "2024-25":"$7,983,000",
@@ -2166,8 +1969,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"iveyja01",
+  "iveyja01":{
     "name":"Jaden Ivey",
     "team":"DET",
     "2024-25":"$7,977,240",
@@ -2177,8 +1979,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"martike04",
+  "martike04":{
     "name":"KJ Martin",
     "team":"PHI",
     "2024-25":"$7,975,000",
@@ -2188,8 +1989,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"micicva01",
+  "micicva01":{
     "name":"Vasilije Micić",
     "team":"CHO",
     "2024-25":"$7,723,000",
@@ -2199,8 +1999,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"fontesi01",
+  "fontesi01":{
     "name":"Simone Fontecchio",
     "team":"DET",
     "2024-25":"$7,692,308",
@@ -2210,8 +2009,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kuminjo01",
+  "kuminjo01":{
     "name":"Jonathan Kuminga",
     "team":"GSW",
     "2024-25":"$7,636,307",
@@ -2221,8 +2019,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"blackan01",
+  "blackan01":{
     "name":"Anthony Black",
     "team":"ORL",
     "2024-25":"$7,607,760",
@@ -2232,8 +2029,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"tateja01",
+  "tateja01":{
     "name":"Jae'Sean Tate",
     "team":"HOU",
     "2024-25":"$7,565,217",
@@ -2243,8 +2039,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"harriga01",
+  "harriga01":{
     "name":"Gary Harris",
     "team":"ORL",
     "2024-25":"$7,500,000",
@@ -2254,8 +2049,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"salauti01",
+  "salauti01":{
     "name":"Tidjane Salaün",
     "team":"CHO",
     "2024-25":"$7,488,720",
@@ -2265,8 +2059,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mathube01",
+  "mathube01":{
     "name":"Bennedict Mathurin",
     "team":"IND",
     "2024-25":"$7,245,720",
@@ -2276,8 +2069,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"chrisma02",
+  "chrisma02":{
     "name":"Max Christie",
     "team":"DAL",
     "2024-25":"$7,142,857",
@@ -2287,8 +2079,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wagnefr01",
+  "wagnefr01":{
     "name":"Franz Wagner",
     "team":"ORL",
     "2024-25":"$7,007,092",
@@ -2298,8 +2089,7 @@
     "2028-29":"$47,940,570",
     "2029-30":"$51,033,510"
   },
-  {
-    "player_id":"dosunay01",
+  "dosunay01":{
     "name":"Ayo Dosunmu",
     "team":"CHI",
     "2024-25":"$7,000,000",
@@ -2309,8 +2099,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"coulibi01",
+  "coulibi01":{
     "name":"Bilal Coulibaly",
     "team":"WAS",
     "2024-25":"$6,945,240",
@@ -2320,8 +2109,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"clingdo01",
+  "clingdo01":{
     "name":"Donovan Clingan",
     "team":"POR",
     "2024-25":"$6,836,400",
@@ -2331,8 +2119,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"pritcpa01",
+  "pritcpa01":{
     "name":"Payton Pritchard",
     "team":"BOS",
     "2024-25":"$6,696,429",
@@ -2342,8 +2129,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willike04",
+  "willike04":{
     "name":"Kenrich Williams",
     "team":"OKC",
     "2024-25":"$6,669,000",
@@ -2353,8 +2139,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sharpsh01",
+  "sharpsh01":{
     "name":"Shaedon Sharpe",
     "team":"POR",
     "2024-25":"$6,614,160",
@@ -2364,8 +2149,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"carteje01",
+  "carteje01":{
     "name":"Jevon Carter",
     "team":"CHI",
     "2024-25":"$6,500,000",
@@ -2375,8 +2159,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mitchda01",
+  "mitchda01":{
     "name":"Davion Mitchell",
     "team":"TOR",
     "2024-25":"$6,451,077",
@@ -2386,8 +2169,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"beysa01",
+  "beysa01":{
     "name":"Saddiq Bey",
     "team":"WAS",
     "2024-25":"$6,440,678",
@@ -2397,8 +2179,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"walkeja02",
+  "walkeja02":{
     "name":"Jarace Walker",
     "team":"IND",
     "2024-25":"$6,362,520",
@@ -2408,8 +2189,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dilliro01",
+  "dilliro01":{
     "name":"Rob Dillingham",
     "team":"MIN",
     "2024-25":"$6,262,920",
@@ -2419,8 +2199,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wadede01",
+  "wadede01":{
     "name":"Dean Wade",
     "team":"CLE",
     "2024-25":"$6,166,667",
@@ -2430,8 +2209,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"konchjo01",
+  "konchjo01":{
     "name":"John Konchar",
     "team":"MEM",
     "2024-25":"$6,165,000",
@@ -2441,8 +2219,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willizi02",
+  "willizi02":{
     "name":"Ziaire Williams",
     "team":"BRK",
     "2024-25":"$6,133,005",
@@ -2452,8 +2229,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"daniedy01",
+  "daniedy01":{
     "name":"Dyson Daniels",
     "team":"ATL",
     "2024-25":"$6,059,520",
@@ -2463,8 +2239,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"achiupr01",
+  "achiupr01":{
     "name":"Precious Achiuwa",
     "team":"NYK",
     "2024-25":"$6,000,000",
@@ -2474,8 +2249,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"beaslma01",
+  "beaslma01":{
     "name":"Malik Beasley",
     "team":"DET",
     "2024-25":"$6,000,000",
@@ -2485,8 +2259,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"duartch01",
+  "duartch01":{
     "name":"Chris Duarte",
     "team":"CHI",
     "2024-25":"$5,893,768",
@@ -2496,8 +2269,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hendrta01",
+  "hendrta01":{
     "name":"Taylor Hendricks",
     "team":"UTA",
     "2024-25":"$5,848,680",
@@ -2507,8 +2279,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"moodymo01",
+  "moodymo01":{
     "name":"Moses Moody",
     "team":"GSW",
     "2024-25":"$5,803,269",
@@ -2518,8 +2289,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"edeyza01",
+  "edeyza01":{
     "name":"Zach Edey",
     "team":"MEM",
     "2024-25":"$5,756,880",
@@ -2529,8 +2299,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kispeco01",
+  "kispeco01":{
     "name":"Corey Kispert",
     "team":"WAS",
     "2024-25":"$5,705,887",
@@ -2540,8 +2309,7 @@
     "2028-29":"$13,050,000",
     "2029-30":null
   },
-  {
-    "player_id":"sochaje01",
+  "sochaje01":{
     "name":"Jeremy Sochan",
     "team":"SAS",
     "2024-25":"$5,570,040",
@@ -2551,8 +2319,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wallaca01",
+  "wallaca01":{
     "name":"Cason Wallace",
     "team":"OKC",
     "2024-25":"$5,555,880",
@@ -2562,8 +2329,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willico04",
+  "willico04":{
     "name":"Cody Williams",
     "team":"UTA",
     "2024-25":"$5,469,120",
@@ -2573,8 +2339,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sengual01",
+  "sengual01":{
     "name":"Alperen Şengün",
     "team":"HOU",
     "2024-25":"$5,424,654",
@@ -2584,8 +2349,7 @@
     "2028-29":"$39,036,697",
     "2029-30":null
   },
-  {
-    "player_id":"davisjo06",
+  "davisjo06":{
     "name":"Johnny Davis",
     "team":"WAS",
     "2024-25":"$5,291,160",
@@ -2595,8 +2359,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"howarje01",
+  "howarje01":{
     "name":"Jett Howard",
     "team":"ORL",
     "2024-25":"$5,278,320",
@@ -2606,8 +2369,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bertada01",
+  "bertada01":{
     "name":"Dāvis Bertāns",
     "team":"CHO",
     "2024-25":"$5,250,000",
@@ -2617,8 +2379,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"highsha01",
+  "highsha01":{
     "name":"Haywood Highsmith",
     "team":"MIA",
     "2024-25":"$5,200,000",
@@ -2628,8 +2389,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"buzelma01",
+  "buzelma01":{
     "name":"Matas Buzelis",
     "team":"CHI",
     "2024-25":"$5,195,520",
@@ -2639,8 +2399,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dunnkr01",
+  "dunnkr01":{
     "name":"Kris Dunn",
     "team":"LAC",
     "2024-25":"$5,168,000",
@@ -2650,8 +2409,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"saricda01",
+  "saricda01":{
     "name":"Dario Šarić",
     "team":"DEN",
     "2024-25":"$5,168,000",
@@ -2661,8 +2419,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"murphtr02",
+  "murphtr02":{
     "name":"Trey Murphy III",
     "team":"NOP",
     "2024-25":"$5,159,854",
@@ -2672,8 +2429,7 @@
     "2028-29":"$31,000,000",
     "2029-30":null
   },
-  {
-    "player_id":"diengou01",
+  "diengou01":{
     "name":"Ousmane Dieng",
     "team":"OKC",
     "2024-25":"$5,027,040",
@@ -2683,8 +2439,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"livelde01",
+  "livelde01":{
     "name":"Dereck Lively II",
     "team":"DAL",
     "2024-25":"$5,014,560",
@@ -2694,8 +2449,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"richani01",
+  "richani01":{
     "name":"Nick Richards",
     "team":"PHO",
     "2024-25":"$5,000,000",
@@ -2705,8 +2459,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"drumman01",
+  "drumman01":{
     "name":"Andre Drummond",
     "team":"PHI",
     "2024-25":"$5,000,000",
@@ -2716,8 +2469,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"eubandr01",
+  "eubandr01":{
     "name":"Drew Eubanks",
     "team":"LAC",
     "2024-25":"$5,000,000",
@@ -2727,8 +2479,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"topicni01",
+  "topicni01":{
     "name":"Nikola Topić",
     "team":"OKC",
     "2024-25":"$4,935,960",
@@ -2738,8 +2489,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"manntr01",
+  "manntr01":{
     "name":"Tre Mann",
     "team":"CHO",
     "2024-25":"$4,908,373",
@@ -2749,8 +2499,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willija06",
+  "willija06":{
     "name":"Jalen Williams",
     "team":"OKC",
     "2024-25":"$4,775,760",
@@ -2760,8 +2509,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dickgr01",
+  "dickgr01":{
     "name":"Gradey Dick",
     "team":"TOR",
     "2024-25":"$4,763,760",
@@ -2771,8 +2519,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mcdanja01",
+  "mcdanja01":{
     "name":"Jalen McDaniels",
     "team":"SAS",
     "2024-25":"$4,741,800",
@@ -2782,8 +2529,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mcbrimi01",
+  "mcbrimi01":{
     "name":"Miles McBride",
     "team":"NYK",
     "2024-25":"$4,710,144",
@@ -2793,8 +2539,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"cartede02",
+  "cartede02":{
     "name":"Devin Carter",
     "team":"SAC",
     "2024-25":"$4,689,000",
@@ -2804,8 +2549,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"batumni01",
+  "batumni01":{
     "name":"Nicolas Batum",
     "team":"LAC",
     "2024-25":"$4,668,000",
@@ -2815,8 +2559,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"holidaa01",
+  "holidaa01":{
     "name":"Aaron Holiday",
     "team":"HOU",
     "2024-25":"$4,668,000",
@@ -2826,8 +2569,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"durenja01",
+  "durenja01":{
     "name":"Jalen Duren",
     "team":"DET",
     "2024-25":"$4,536,840",
@@ -2837,8 +2579,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hawkijo01",
+  "hawkijo01":{
     "name":"Jordan Hawkins",
     "team":"NOP",
     "2024-25":"$4,525,680",
@@ -2848,8 +2589,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnsja05",
+  "johnsja05":{
     "name":"Jalen Johnson",
     "team":"ATL",
     "2024-25":"$4,510,905",
@@ -2859,8 +2599,7 @@
     "2028-29":"$30,000,000",
     "2029-30":"$30,000,000"
   },
-  {
-    "player_id":"carrica01",
+  "carrica01":{
     "name":"Carlton Carrington",
     "team":"WAS",
     "2024-25":"$4,454,880",
@@ -2870,8 +2609,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jacksis01",
+  "jacksis01":{
     "name":"Isaiah Jackson",
     "team":"IND",
     "2024-25":"$4,435,381",
@@ -2881,8 +2619,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"alexani01",
+  "alexani01":{
     "name":"Nickeil Alexander-Walker",
     "team":"MIN",
     "2024-25":"$4,312,500",
@@ -2892,8 +2629,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"agbajoc01",
+  "agbajoc01":{
     "name":"Ochai Agbaji",
     "team":"TOR",
     "2024-25":"$4,310,280",
@@ -2903,8 +2639,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bufkiko01",
+  "bufkiko01":{
     "name":"Kobe Bufkin",
     "team":"ATL",
     "2024-25":"$4,299,000",
@@ -2914,8 +2649,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"grimequ01",
+  "grimequ01":{
     "name":"Quentin Grimes",
     "team":"PHI",
     "2024-25":"$4,296,682",
@@ -2925,8 +2659,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wareke01",
+  "wareke01":{
     "name":"Kel'el Ware",
     "team":"MIA",
     "2024-25":"$4,231,800",
@@ -2936,8 +2669,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hylanbo01",
+  "hylanbo01":{
     "name":"Bones Hyland",
     "team":"LAC",
     "2024-25":"$4,158,439",
@@ -2947,8 +2679,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willima07",
+  "willima07":{
     "name":"Mark Williams",
     "team":"CHO",
     "2024-25":"$4,094,280",
@@ -2958,8 +2689,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"georgke01",
+  "georgke01":{
     "name":"Keyonte George",
     "team":"UTA",
     "2024-25":"$4,084,200",
@@ -2969,8 +2699,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thomaca02",
+  "thomaca02":{
     "name":"Cam Thomas",
     "team":"BRK",
     "2024-25":"$4,041,249",
@@ -2980,8 +2709,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mccaija01",
+  "mccaija01":{
     "name":"Jared McCain",
     "team":"PHI",
     "2024-25":"$4,020,360",
@@ -2991,8 +2719,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sprinja01",
+  "sprinja01":{
     "name":"Jaden Springer",
     "team":"BOS",
     "2024-25":"$4,018,363",
@@ -3002,8 +2729,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"poweldw01",
+  "poweldw01":{
     "name":"Dwight Powell",
     "team":"DAL",
     "2024-25":"$4,000,000",
@@ -3013,8 +2739,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sharpda01",
+  "sharpda01":{
     "name":"Day'Ron Sharpe",
     "team":"BRK",
     "2024-25":"$3,989,122",
@@ -3024,8 +2749,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"aldamsa01",
+  "aldamsa01":{
     "name":"Santi Aldama",
     "team":"MEM",
     "2024-25":"$3,960,531",
@@ -3035,8 +2759,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"coffeam01",
+  "coffeam01":{
     "name":"Amir Coffey",
     "team":"LAC",
     "2024-25":"$3,938,271",
@@ -3046,8 +2769,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hoodsja01",
+  "hoodsja01":{
     "name":"Jalen Hood-Schifino",
     "team":"UTA",
     "2024-25":"$3,879,840",
@@ -3057,8 +2779,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"loveke01",
+  "loveke01":{
     "name":"Kevin Love",
     "team":"MIA",
     "2024-25":"$3,850,000",
@@ -3068,8 +2789,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"knechda01",
+  "knechda01":{
     "name":"Dalton Knecht",
     "team":"LAL",
     "2024-25":"$3,819,120",
@@ -3079,8 +2799,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"easonta01",
+  "easonta01":{
     "name":"Tari Eason",
     "team":"HOU",
     "2024-25":"$3,695,160",
@@ -3090,8 +2809,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jaqueja01",
+  "jaqueja01":{
     "name":"Jaime Jaquez Jr.",
     "team":"MIA",
     "2024-25":"$3,685,800",
@@ -3101,8 +2819,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dasiltr01",
+  "dasiltr01":{
     "name":"Tristan Da Silva",
     "team":"ORL",
     "2024-25":"$3,628,440",
@@ -3112,8 +2829,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"podzibr01",
+  "podzibr01":{
     "name":"Brandin Podziemski",
     "team":"GSW",
     "2024-25":"$3,519,960",
@@ -3123,8 +2839,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"terryda01",
+  "terryda01":{
     "name":"Dalen Terry",
     "team":"CHI",
     "2024-25":"$3,510,480",
@@ -3134,8 +2849,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mykhasv01",
+  "mykhasv01":{
     "name":"Svi Mykhailiuk",
     "team":"UTA",
     "2024-25":"$3,500,000",
@@ -3145,8 +2859,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"zelleco01",
+  "zelleco01":{
     "name":"Cody Zeller",
     "team":"ATL",
     "2024-25":"$3,500,000",
@@ -3156,8 +2869,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"walteja01",
+  "walteja01":{
     "name":"Ja'Kobe Walter",
     "team":"TOR",
     "2024-25":"$3,465,000",
@@ -3167,8 +2879,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"whitmca01",
+  "whitmca01":{
     "name":"Cam Whitmore",
     "team":"HOU",
     "2024-25":"$3,379,080",
@@ -3178,8 +2889,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"laravja01",
+  "laravja01":{
     "name":"Jake LaRavia",
     "team":"MEM",
     "2024-25":"$3,352,680",
@@ -3189,8 +2899,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"tysonja01",
+  "tysonja01":{
     "name":"Jaylon Tyson",
     "team":"CLE",
     "2024-25":"$3,326,160",
@@ -3200,8 +2909,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gordoer01",
+  "gordoer01":{
     "name":"Eric Gordon",
     "team":"PHI",
     "2024-25":"$3,303,771",
@@ -3211,8 +2919,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"josepco01",
+  "josepco01":{
     "name":"Cory Joseph",
     "team":"ORL",
     "2024-25":"$3,303,771",
@@ -3222,8 +2929,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"westbru01",
+  "westbru01":{
     "name":"Russell Westbrook",
     "team":"DEN",
     "2024-25":"$5,631,296",
@@ -3233,8 +2939,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"clownno01",
+  "clownno01":{
     "name":"Noah Clowney",
     "team":"BRK",
     "2024-25":"$3,244,080",
@@ -3244,8 +2949,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"branhma01",
+  "branhma01":{
     "name":"Malaki Branham",
     "team":"SAS",
     "2024-25":"$3,217,920",
@@ -3255,8 +2959,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"missiyv01",
+  "missiyv01":{
     "name":"Yves Missi",
     "team":"NOP",
     "2024-25":"$3,193,200",
@@ -3266,8 +2969,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"exumda01",
+  "exumda01":{
     "name":"Dante Exum",
     "team":"DAL",
     "2024-25":"$3,150,000",
@@ -3277,8 +2979,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"whiteda01",
+  "whiteda01":{
     "name":"Dariq Whitehead",
     "team":"BRK",
     "2024-25":"$3,114,240",
@@ -3288,8 +2989,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"littlna01",
+  "littlna01":{
     "name":"Nassir Little",
     "team":"PHO",
     "2024-25":"$3,107,143",
@@ -3299,8 +2999,7 @@
     "2028-29":"$3,107,143",
     "2029-30":null
   },
-  {
-    "player_id":"braunch01",
+  "braunch01":{
     "name":"Christian Braun",
     "team":"DEN",
     "2024-25":"$3,089,640",
@@ -3310,8 +3009,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"juzanjo01",
+  "juzanjo01":{
     "name":"Johnny Juzang",
     "team":"UTA",
     "2024-25":"$3,087,519",
@@ -3321,8 +3019,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jeffrda01",
+  "jeffrda01":{
     "name":"DaQuan Jeffries",
     "team":"CHO",
     "2024-25":"$3,080,918",
@@ -3332,8 +3029,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"holmeda01",
+  "holmeda01":{
     "name":"DaRon Holmes",
     "team":"DEN",
     "2024-25":"$3,065,640",
@@ -3343,8 +3039,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"richajo01",
+  "richajo01":{
     "name":"Josh Richardson",
     "team":"MIA",
     "2024-25":"$3,051,153",
@@ -3354,8 +3049,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"woodch01",
+  "woodch01":{
     "name":"Christian Wood",
     "team":"LAL",
     "2024-25":"$3,036,040",
@@ -3365,8 +3059,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"filipky01",
+  "filipky01":{
     "name":"Kyle Filipowski",
     "team":"UTA",
     "2024-25":"$3,000,000",
@@ -3376,8 +3069,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"champju02",
+  "champju02":{
     "name":"Julian Champagnie",
     "team":"SAS",
     "2024-25":"$3,000,000",
@@ -3387,8 +3079,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"murrakr01",
+  "murrakr01":{
     "name":"Kris Murray",
     "team":"POR",
     "2024-25":"$2,990,040",
@@ -3398,8 +3089,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kesslwa01",
+  "kesslwa01":{
     "name":"Walker Kessler",
     "team":"UTA",
     "2024-25":"$2,965,920",
@@ -3409,8 +3099,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"miltosh01",
+  "miltosh01":{
     "name":"Shake Milton",
     "team":"LAL",
     "2024-25":"$2,875,000",
@@ -3420,8 +3109,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"prospol01",
+  "prospol01":{
     "name":"Olivier-Maxence Prosper",
     "team":"DAL",
     "2024-25":"$2,870,400",
@@ -3431,8 +3119,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"roddyda01",
+  "roddyda01":{
     "name":"David Roddy",
     "team":"ATL",
     "2024-25":"$2,847,240",
@@ -3442,8 +3129,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"craigto01",
+  "craigto01":{
     "name":"Torrey Craig",
     "team":"CHI",
     "2024-25":"$2,845,342",
@@ -3453,8 +3139,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"georgky01",
+  "georgky01":{
     "name":"Kyshawn George",
     "team":"WAS",
     "2024-25":"$2,825,520",
@@ -3464,8 +3149,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnsaj01",
+  "johnsaj01":{
     "name":"AJ Johnson",
     "team":"MIL",
     "2024-25":"$2,795,294",
@@ -3475,8 +3159,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sassema01",
+  "sassema01":{
     "name":"Marcus Sasser",
     "team":"DET",
     "2024-25":"$2,755,080",
@@ -3486,8 +3169,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dedmode01",
+  "dedmode01":{
     "name":"Dewayne Dedmon",
     "team":"DET",
     "2024-25":"$2,748,674",
@@ -3497,8 +3179,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"beaucma01",
+  "beaucma01":{
     "name":"MarJon Beauchamp",
     "team":"MIL",
     "2024-25":"$2,733,720",
@@ -3508,8 +3189,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"watfotr01",
+  "watfotr01":{
     "name":"Trendon Watford",
     "team":"BRK",
     "2024-25":"$2,726,603",
@@ -3519,8 +3199,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sheppbe01",
+  "sheppbe01":{
     "name":"Ben Sheppard",
     "team":"IND",
     "2024-25":"$2,663,880",
@@ -3530,8 +3209,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bateske01",
+  "bateske01":{
     "name":"Keita Bates-Diop",
     "team":"MIN",
     "2024-25":"$2,654,644",
@@ -3541,8 +3219,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"weslebl01",
+  "weslebl01":{
     "name":"Blake Wesley",
     "team":"SAS",
     "2024-25":"$2,624,280",
@@ -3552,8 +3229,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jonesdi01",
+  "jonesdi01":{
     "name":"Dillon Jones",
     "team":"OKC",
     "2024-25":"$2,622,360",
@@ -3563,8 +3239,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"smithni01",
+  "smithni01":{
     "name":"Nick Smith Jr.",
     "team":"CHO",
     "2024-25":"$2,587,200",
@@ -3574,8 +3249,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sensabr01",
+  "sensabr01":{
     "name":"Brice Sensabaugh",
     "team":"UTA",
     "2024-25":"$2,571,480",
@@ -3585,8 +3259,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jeromty01",
+  "jeromty01":{
     "name":"Ty Jerome",
     "team":"CLE",
     "2024-25":"$2,560,975",
@@ -3596,8 +3269,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"strawju01",
+  "strawju01":{
     "name":"Julian Strawther",
     "team":"DEN",
     "2024-25":"$2,552,520",
@@ -3607,8 +3279,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"shannte01",
+  "shannte01":{
     "name":"Terrence Shannon Jr. ",
     "team":"MIN",
     "2024-25":"$2,546,640",
@@ -3618,8 +3289,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"moorewe01",
+  "moorewe01":{
     "name":"Wendell Moore Jr.",
     "team":"DET",
     "2024-25":"$2,537,040",
@@ -3629,8 +3299,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brownko01",
+  "brownko01":{
     "name":"Kobe Brown",
     "team":"LAC",
     "2024-25":"$2,533,920",
@@ -3640,8 +3309,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dunnry01",
+  "dunnry01":{
     "name":"Ryan Dunn",
     "team":"PHO",
     "2024-25":"$2,530,800",
@@ -3651,8 +3319,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"colliis01",
+  "colliis01":{
     "name":"Isaiah Collier",
     "team":"UTA",
     "2024-25":"$2,512,680",
@@ -3662,8 +3329,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"scheiba01",
+  "scheiba01":{
     "name":"Baylor Scheierman",
     "team":"BOS",
     "2024-25":"$2,494,320",
@@ -3673,8 +3339,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reedpa01",
+  "reedpa01":{
     "name":"Paul Reed",
     "team":"DET",
     "2024-25":"$2,485,563",
@@ -3684,8 +3349,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jovicni01",
+  "jovicni01":{
     "name":"Nikola Jović",
     "team":"MIA",
     "2024-25":"$2,464,200",
@@ -3695,8 +3359,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hayesja02",
+  "hayesja02":{
     "name":"Jaxson Hayes",
     "team":"LAL",
     "2024-25":"$2,463,946",
@@ -3706,8 +3369,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reddica01",
+  "reddica01":{
     "name":"Cam Reddish",
     "team":"LAL",
     "2024-25":"$2,463,946",
@@ -3717,8 +3379,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"baldwpa01",
+  "baldwpa01":{
     "name":"Patrick Baldwin Jr.",
     "team":"WAS",
     "2024-25":"$2,448,840",
@@ -3728,8 +3389,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"watsope01",
+  "watsope01":{
     "name":"Peyton Watson",
     "team":"DEN",
     "2024-25":"$2,413,560",
@@ -3739,8 +3399,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brownch02",
+  "brownch02":{
     "name":"Charlie Brown Jr.",
     "team":"CHO",
     "2024-25":"$2,237,692",
@@ -3750,8 +3409,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"tillmxa01",
+  "tillmxa01":{
     "name":"Xavier Tillman Sr.",
     "team":"BOS",
     "2024-25":"$2,237,691",
@@ -3761,8 +3419,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gillan01",
+  "gillan01":{
     "name":"Anthony Gill",
     "team":"WAS",
     "2024-25":"$2,237,691",
@@ -3772,8 +3429,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"porteke02",
+  "porteke02":{
     "name":"Kevin Porter Jr.",
     "team":"LAC",
     "2024-25":"$3,237,691",
@@ -3783,8 +3439,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wisemja01",
+  "wisemja01":{
     "name":"James Wiseman",
     "team":"IND",
     "2024-25":"$2,237,691",
@@ -3794,8 +3449,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mathega01",
+  "mathega01":{
     "name":"Garrison Mathews",
     "team":"ATL",
     "2024-25":"$2,230,253",
@@ -3805,8 +3459,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mcgeeja01",
+  "mcgeeja01":{
     "name":"JaVale McGee",
     "team":"DAL",
     "2024-25":"$2,208,856",
@@ -3816,8 +3469,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"robinje02",
+  "robinje02":{
     "name":"Jeremiah Robinson-Earl",
     "team":"NOP",
     "2024-25":"$2,196,970",
@@ -3827,8 +3479,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"waterli01",
+  "waterli01":{
     "name":"Lindy Waters III",
     "team":"GSW",
     "2024-25":"$2,196,970",
@@ -3838,8 +3489,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bantoda01",
+  "bantoda01":{
     "name":"Dalano Banton",
     "team":"POR",
     "2024-25":"$2,196,970",
@@ -3849,8 +3499,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"merrisa01",
+  "merrisa01":{
     "name":"Sam Merrill",
     "team":"CLE",
     "2024-25":"$2,164,993",
@@ -3860,8 +3509,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"washidu02",
+  "washidu02":{
     "name":"Duane Washington Jr.",
     "team":"CHO",
     "2024-25":"$2,162,607",
@@ -3871,8 +3519,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"garzalu01",
+  "garzalu01":{
     "name":"Luka Garza",
     "team":"MIN",
     "2024-25":"$2,162,606",
@@ -3882,8 +3529,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"quetane01",
+  "quetane01":{
     "name":"Neemias Queta",
     "team":"BOS",
     "2024-25":"$2,162,606",
@@ -3893,8 +3539,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"krejcvi01",
+  "krejcvi01":{
     "name":"Vit Krejci",
     "team":"ATL",
     "2024-25":"$2,162,606",
@@ -3904,8 +3549,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnske07",
+  "johnske07":{
     "name":"Keon Johnson",
     "team":"BRK",
     "2024-25":"$2,162,606",
@@ -3915,8 +3559,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willivi01",
+  "willivi01":{
     "name":"Vince Williams Jr.",
     "team":"MEM",
     "2024-25":"$2,120,693",
@@ -3926,8 +3569,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jonesco02",
+  "jonesco02":{
     "name":"Colby Jones",
     "team":"SAC",
     "2024-25":"$2,120,693",
@@ -3937,8 +3579,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"elliske01",
+  "elliske01":{
     "name":"Keon Ellis",
     "team":"SAC",
     "2024-25":"$2,120,693",
@@ -3948,8 +3589,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greenaj01",
+  "greenaj01":{
     "name":"A.J. Green",
     "team":"MIL",
     "2024-25":"$2,120,693",
@@ -3959,8 +3599,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hausesa01",
+  "hausesa01":{
     "name":"Sam Hauser",
     "team":"BOS",
     "2024-25":"$2,092,344",
@@ -3970,8 +3609,7 @@
     "2028-29":"$12,455,356",
     "2029-30":null
   },
-  {
-    "player_id":"simsje01",
+  "simsje01":{
     "name":"Jericho Sims",
     "team":"NYK",
     "2024-25":"$2,092,344",
@@ -3981,8 +3619,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"huffja01",
+  "huffja01":{
     "name":"Jay Huff",
     "team":"MEM",
     "2024-25":"$2,088,033",
@@ -3992,8 +3629,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kolekty01",
+  "kolekty01":{
     "name":"Tyler Kolek",
     "team":"NYK",
     "2024-25":"$2,087,519",
@@ -4003,8 +3639,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"pippesc02",
+  "pippesc02":{
     "name":"Scotty Pippen Jr.",
     "team":"MEM",
     "2024-25":"$2,087,519",
@@ -4014,8 +3649,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bambamo01",
+  "bambamo01":{
     "name":"Mo Bamba",
     "team":"UTA",
     "2024-25":"$2,087,519",
@@ -4025,8 +3659,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"templga01",
+  "templga01":{
     "name":"Garrett Temple",
     "team":"TOR",
     "2024-25":"$2,087,519",
@@ -4036,8 +3669,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mamuksa01",
+  "mamuksa01":{
     "name":"Sandro Mamukelashvili",
     "team":"SAS",
     "2024-25":"$2,087,519",
@@ -4047,8 +3679,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bassech01",
+  "bassech01":{
     "name":"Charles Bassey",
     "team":"SAS",
     "2024-25":"$2,087,519",
@@ -4058,8 +3689,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mclaujo01",
+  "mclaujo01":{
     "name":"Jordan McLaughlin",
     "team":"SAS",
     "2024-25":"$2,087,519",
@@ -4069,8 +3699,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lenal01",
+  "lenal01":{
     "name":"Alex Len",
     "team":"SAC",
     "2024-25":"$2,087,519",
@@ -4080,8 +3709,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jonesty01",
+  "jonesty01":{
     "name":"Tyus Jones",
     "team":"PHO",
     "2024-25":"$2,087,519",
@@ -4091,8 +3719,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"morrimo01",
+  "morrimo01":{
     "name":"Monte Morris",
     "team":"PHO",
     "2024-25":"$2,087,519",
@@ -4102,8 +3729,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"plumlma01",
+  "plumlma01":{
     "name":"Mason Plumlee",
     "team":"PHO",
     "2024-25":"$2,087,519",
@@ -4113,8 +3739,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"leeda03",
+  "leeda03":{
     "name":"Damion Lee",
     "team":"PHO",
     "2024-25":"$2,087,519",
@@ -4124,8 +3749,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"yabusgu01",
+  "yabusgu01":{
     "name":"Guerschon Yabusele",
     "team":"PHI",
     "2024-25":"$2,087,519",
@@ -4135,8 +3759,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jacksre01",
+  "jacksre01":{
     "name":"Reggie Jackson",
     "team":"PHI",
     "2024-25":"$4,033,748",
@@ -4146,8 +3769,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lowryky01",
+  "lowryky01":{
     "name":"Kyle Lowry",
     "team":"PHI",
     "2024-25":"$2,087,519",
@@ -4157,8 +3779,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"theisda01",
+  "theisda01":{
     "name":"Daniel Theis",
     "team":"OKC",
     "2024-25":"$2,087,519",
@@ -4168,8 +3789,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"payneca01",
+  "payneca01":{
     "name":"Cameron Payne",
     "team":"NYK",
     "2024-25":"$2,087,519",
@@ -4179,8 +3799,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"greenja02",
+  "greenja02":{
     "name":"Javonte Green",
     "team":"NOP",
     "2024-25":"$2,087,519",
@@ -4190,8 +3809,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"inglejo01",
+  "inglejo01":{
     "name":"Joe Ingles",
     "team":"MIN",
     "2024-25":"$2,087,519",
@@ -4201,8 +3819,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"trentga02",
+  "trentga02":{
     "name":"Gary Trent Jr.",
     "team":"MIL",
     "2024-25":"$2,087,519",
@@ -4212,8 +3829,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"princta02",
+  "princta02":{
     "name":"Taurean Prince",
     "team":"MIL",
     "2024-25":"$2,087,519",
@@ -4223,8 +3839,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wrighde01",
+  "wrighde01":{
     "name":"Delon Wright",
     "team":"MIL",
     "2024-25":"$2,087,519",
@@ -4234,8 +3849,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"burksal01",
+  "burksal01":{
     "name":"Alec Burks",
     "team":"MIA",
     "2024-25":"$2,087,519",
@@ -4245,8 +3859,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"morrima02",
+  "morrima02":{
     "name":"Markieff Morris",
     "team":"LAL",
     "2024-25":"$2,087,519",
@@ -4256,8 +3869,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"millspa02",
+  "millspa02":{
     "name":"Patty Mills",
     "team":"LAC",
     "2024-25":"$2,087,519",
@@ -4267,8 +3879,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bryanth01",
+  "bryanth01":{
     "name":"Thomas Bryant",
     "team":"IND",
     "2024-25":"$2,087,519",
@@ -4278,8 +3889,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jordade01",
+  "jordade01":{
     "name":"DeAndre Jordan",
     "team":"DEN",
     "2024-25":"$2,087,519",
@@ -4289,8 +3899,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"cancavl01",
+  "cancavl01":{
     "name":"Vlatko Čančar",
     "team":"DEN",
     "2024-25":"$2,087,519",
@@ -4300,8 +3909,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dinwisp01",
+  "dinwisp01":{
     "name":"Spencer Dinwiddie",
     "team":"DAL",
     "2024-25":"$2,087,519",
@@ -4311,8 +3919,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"thomptr01",
+  "thomptr01":{
     "name":"Tristan Thompson",
     "team":"CLE",
     "2024-25":"$2,087,519",
@@ -4322,8 +3929,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"curryse01",
+  "curryse01":{
     "name":"Seth Curry",
     "team":"CHO",
     "2024-25":"$2,087,519",
@@ -4333,8 +3939,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hortota01",
+  "hortota01":{
     "name":"Talen Horton-Tucker",
     "team":"CHI",
     "2024-25":"$2,087,519",
@@ -4344,8 +3949,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"kornelu01",
+  "kornelu01":{
     "name":"Luke Kornet",
     "team":"BOS",
     "2024-25":"$2,087,519",
@@ -4355,8 +3959,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mcderdo01",
+  "mcderdo01":{
     "name":"Doug McDermott",
     "team":"SAC",
     "2024-25":"$2,087,519",
@@ -4366,8 +3969,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"johnsja01",
+  "johnsja01":{
     "name":"James Johnson",
     "team":"IND",
     "2024-25":"$2,087,519",
@@ -4377,8 +3979,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gibsota01",
+  "gibsota01":{
     "name":"Taj Gibson",
     "team":"CHO",
     "2024-25":"$2,087,519",
@@ -4388,8 +3989,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reathdu01",
+  "reathdu01":{
     "name":"Duop Reath",
     "team":"POR",
     "2024-25":"$2,048,780",
@@ -4399,8 +3999,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"nembhan01",
+  "nembhan01":{
     "name":"Andrew Nembhard",
     "team":"IND",
     "2024-25":"$2,019,699",
@@ -4410,8 +4009,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"hardyja02",
+  "hardyja02":{
     "name":"Jaden Hardy",
     "team":"DAL",
     "2024-25":"$2,019,699",
@@ -4421,8 +4019,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"chandke01",
+  "chandke01":{
     "name":"Kennedy Chandler",
     "team":"MEM",
     "2024-25":"$2,019,699",
@@ -4432,8 +4029,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"walkeja01",
+  "walkeja01":{
     "name":"Jabari Walker",
     "team":"POR",
     "2024-25":"$2,019,699",
@@ -4443,8 +4039,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"houstca01",
+  "houstca01":{
     "name":"Caleb Houstan",
     "team":"ORL",
     "2024-25":"$2,019,699",
@@ -4454,8 +4049,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"willija07",
+  "willija07":{
     "name":"Jaylin Williams",
     "team":"OKC",
     "2024-25":"$2,019,699",
@@ -4465,8 +4059,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"minotjo01",
+  "minotjo01":{
     "name":"Josh Minott",
     "team":"MIN",
     "2024-25":"$2,019,699",
@@ -4476,8 +4069,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"alvarjo01",
+  "alvarjo01":{
     "name":"Jose Alvarado",
     "team":"NOP",
     "2024-25":"$1,988,598",
@@ -4487,8 +4079,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"cissosi01",
+  "cissosi01":{
     "name":"Sidy Cissoko",
     "team":"WAS",
     "2024-25":"$1,891,857",
@@ -4498,8 +4089,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"councri01",
+  "councri01":{
     "name":"Ricky Council IV",
     "team":"PHI",
     "2024-25":"$1,891,857",
@@ -4509,8 +4099,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jacksgg01",
+  "jacksgg01":{
     "name":"GG Jackson II",
     "team":"MEM",
     "2024-25":"$1,891,857",
@@ -4520,8 +4109,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"pickeja02",
+  "pickeja02":{
     "name":"Jalen Pickett",
     "team":"DEN",
     "2024-25":"$1,891,857",
@@ -4531,8 +4119,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"tysonhu01",
+  "tysonhu01":{
     "name":"Hunter Tyson",
     "team":"DEN",
     "2024-25":"$1,891,857",
@@ -4542,8 +4129,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"phillju01",
+  "phillju01":{
     "name":"Julian Phillips",
     "team":"CHI",
     "2024-25":"$1,891,857",
@@ -4553,8 +4139,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"walshjo01",
+  "walshjo01":{
     "name":"Jordan Walsh",
     "team":"BOS",
     "2024-25":"$1,891,857",
@@ -4564,8 +4149,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"ruperra01",
+  "ruperra01":{
     "name":"Rayan Rupert",
     "team":"POR",
     "2024-25":"$1,891,857",
@@ -4575,8 +4159,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"millele01",
+  "millele01":{
     "name":"Leonard Miller",
     "team":"MIN",
     "2024-25":"$1,891,857",
@@ -4586,8 +4169,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"livinch01",
+  "livinch01":{
     "name":"Chris Livingston",
     "team":"MIL",
     "2024-25":"$1,891,857",
@@ -4597,8 +4179,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jackstr02",
+  "jackstr02":{
     "name":"Trayce Jackson-Davis",
     "team":"GSW",
     "2024-25":"$1,891,857",
@@ -4608,8 +4189,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"lewisma05",
+  "lewisma05":{
     "name":"Maxwell Lewis",
     "team":"BRK",
     "2024-25":"$1,891,857",
@@ -4619,8 +4199,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"gueyemo02",
+  "gueyemo02":{
     "name":"Mouhamed Gueye",
     "team":"ATL",
     "2024-25":"$1,891,857",
@@ -4630,8 +4209,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"camarto01",
+  "camarto01":{
     "name":"Toumani Camara",
     "team":"POR",
     "2024-25":"$1,891,857",
@@ -4641,8 +4219,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jacksan01",
+  "jacksan01":{
     "name":"Andre Jackson Jr.",
     "team":"MIL",
     "2024-25":"$1,891,857",
@@ -4652,8 +4229,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"santogu01",
+  "santogu01":{
     "name":"Gui Santos",
     "team":"GSW",
     "2024-25":"$1,891,857",
@@ -4663,8 +4239,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"portecr01",
+  "portecr01":{
     "name":"Craig Porter Jr.",
     "team":"CLE",
     "2024-25":"$1,891,857",
@@ -4674,8 +4249,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wilsoja03",
+  "wilsoja03":{
     "name":"Jalen Wilson",
     "team":"BRK",
     "2024-25":"$1,891,857",
@@ -4685,8 +4259,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mogbojo01",
+  "mogbojo01":{
     "name":"Jonathan Mogbo",
     "team":"TOR",
     "2024-25":"$1,862,265",
@@ -4696,8 +4269,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"sheadja01",
+  "sheadja01":{
     "name":"Jamal Shead",
     "team":"TOR",
     "2024-25":"$1,862,265",
@@ -4707,8 +4279,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"furphjo01",
+  "furphjo01":{
     "name":"Johnny Furphy",
     "team":"IND",
     "2024-25":"$1,850,842",
@@ -4718,8 +4289,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"dadiepa01",
+  "dadiepa01":{
     "name":"Pacome Dadiet",
     "team":"NYK",
     "2024-25":"$1,808,080",
@@ -4729,8 +4299,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"matkoka01",
+  "matkoka01":{
     "name":"Karlo Matković",
     "team":"NOP",
     "2024-25":"$1,407,153",
@@ -4740,8 +4309,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"rubiori01",
+  "rubiori01":{
     "name":"Ricky Rubio",
     "team":"CLE",
     "2024-25":"$1,301,031",
@@ -4751,8 +4319,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bledser01",
+  "bledser01":{
     "name":"Eric Bledsoe",
     "team":"POR",
     "2024-25":"$1,300,000",
@@ -4762,8 +4329,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"klintbo01",
+  "klintbo01":{
     "name":"Bobi Klintman",
     "team":"DET",
     "2024-25":"$1,257,153",
@@ -4773,8 +4339,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"smithty02",
+  "smithty02":{
     "name":"Tyler Smith",
     "team":"MIL",
     "2024-25":"$1,157,153",
@@ -4784,8 +4349,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"ighodos01",
+  "ighodos01":{
     "name":"Oso Ighodaro",
     "team":"PHO",
     "2024-25":"$1,157,153",
@@ -4795,8 +4359,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"wellsja01",
+  "wellsja01":{
     "name":"Jaylen Wells",
     "team":"MEM",
     "2024-25":"$1,157,153",
@@ -4806,8 +4369,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"jamesbr02",
+  "jamesbr02":{
     "name":"Bronny James",
     "team":"LAL",
     "2024-25":"$1,157,153",
@@ -4817,8 +4379,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"chrisca02",
+  "chrisca02":{
     "name":"Cam Christie",
     "team":"LAC",
     "2024-25":"$1,157,153",
@@ -4828,8 +4389,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"bonaad01",
+  "bonaad01":{
     "name":"Adem Bona",
     "team":"PHI",
     "2024-25":"$1,157,153",
@@ -4839,8 +4399,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"reevean01",
+  "reevean01":{
     "name":"Antonio Reeves",
     "team":"NOP",
     "2024-25":"$1,157,153",
@@ -4850,8 +4409,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"larsspe01",
+  "larsspe01":{
     "name":"Pelle Larsson",
     "team":"MIA",
     "2024-25":"$1,157,153",
@@ -4861,8 +4419,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"fernabr01",
+  "fernabr01":{
     "name":"Bruno Fernando",
     "team":"TOR",
     "2024-25":"$1,115,128",
@@ -4872,8 +4429,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"leonsma01",
+  "leonsma01":{
     "name":"Malevy Leons",
     "team":"OKC",
     "2024-25":"$1,097,300",
@@ -4883,8 +4439,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"doziepj01",
+  "doziepj01":{
     "name":"PJ Dozier",
     "team":"MIN",
     "2024-25":"$1,051,255",
@@ -4894,8 +4449,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"primojo01",
+  "primojo01":{
     "name":"Joshua Primo",
     "team":"LAC",
     "2024-25":"$1,000,000",
@@ -4905,8 +4459,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"robinor01",
+  "robinor01":{
     "name":"Orlando Robinson",
     "team":"SAC",
     "2024-25":"$1,195,657",
@@ -4916,8 +4469,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"liddeej01",
+  "liddeej01":{
     "name":"E.J. Liddell",
     "team":"PHO",
     "2024-25":"$706,898",
@@ -4927,8 +4479,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"stausni01",
+  "stausni01":{
     "name":"Nik Stauskas",
     "team":"IND",
     "2024-25":"$702,310",
@@ -4938,8 +4489,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"ryanma01",
+  "ryanma01":{
     "name":"Matt Ryan",
     "team":"NYK",
     "2024-25":"$621,439",
@@ -4949,8 +4499,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"rolliry01",
+  "rolliry01":{
     "name":"Ryan Rollins",
     "team":"WAS",
     "2024-25":"$600,000",
@@ -4960,8 +4509,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"morgaju01",
+  "morgaju01":{
     "name":"Juwan Morgan",
     "team":"IND",
     "2024-25":"$576,229",
@@ -4971,8 +4519,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"fittsma01",
+  "fittsma01":{
     "name":"Malik Fitts",
     "team":"IND",
     "2024-25":"$555,216",
@@ -4982,8 +4529,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"diakima01",
+  "diakima01":{
     "name":"Mamadi Diakite",
     "team":"MEM",
     "2024-25":"$464,050",
@@ -4993,8 +4539,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"carlsbr01",
+  "carlsbr01":{
     "name":"Branden Carlson",
     "team":"OKC",
     "2024-25":"$496,519",
@@ -5004,8 +4549,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"brownmo01",
+  "brownmo01":{
     "name":"Moses Brown",
     "team":"IND",
     "2024-25":"$306,660",
@@ -5015,8 +4559,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"nowelja01",
+  "nowelja01":{
     "name":"Jaylen Nowell",
     "team":"NOP",
     "2024-25":"$278,782",
@@ -5026,8 +4569,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"louzama01",
+  "louzama01":{
     "name":"Didi Louzada",
     "team":"POR",
     "2024-25":"$268,032",
@@ -5037,8 +4579,7 @@
     "2028-29":"$268,032",
     "2029-30":null
   },
-  {
-    "player_id":"griffaj01",
+  "griffaj01":{
     "name":"AJ Griffin",
     "team":"HOU",
     "2024-25":"$250,000",
@@ -5048,8 +4589,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"omorueu01",
+  "omorueu01":{
     "name":"Eugene Omoruyi",
     "team":"TOR",
     "2024-25":"$117,939",
@@ -5059,8 +4599,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"freemja01",
+  "freemja01":{
     "name":"Javon Freeman-Liberty",
     "team":"TOR",
     "2024-25":"$100,000",
@@ -5070,8 +4609,7 @@
     "2028-29":null,
     "2029-30":null
   },
-  {
-    "player_id":"mccoyja01",
+  "mccoyja01":{
     "name":"Javante McCoy",
     "team":"DET",
     "2024-25":"$32,596",
@@ -5081,4 +4619,4 @@
     "2028-29":null,
     "2029-30":null
   }
-]
+}
