@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import pandas as pd
 
 
 def scrape_contracts():
@@ -65,5 +66,12 @@ def remove_contracts():
     open("contracts.csv", "w").close()
 
 
+def teams():
+    df = pd.read_csv("contracts.csv")  # Change to your CSV file
+
+    # Extract unique teams
+    return sorted(df["team"].dropna().unique())
+
+
 if __name__ == "__main__":
-    remove_contracts()
+    print(teams())
