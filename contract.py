@@ -10,6 +10,10 @@ def scrape_contracts():
 
     # Fetch the webpage
     response = requests.get(URL, headers=headers)
+
+    # Explicitly set encoding to 'utf-8'
+    response.encoding = 'utf-8'
+
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Find the table containing contracts
@@ -52,9 +56,9 @@ def scrape_contracts():
         players.append(player_data)
         player_ids.add(player_id)
 
-    # Save to CSV
+    # Save to CSV with UTF-8 encoding
     csv_file = "contracts.csv"
-    with open(csv_file, "w", newline="") as f:
+    with open(csv_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["player_id", "name", "team"] + salary_years)
         writer.writeheader()
         writer.writerows(players)
@@ -74,4 +78,5 @@ def teams():
 
 
 if __name__ == "__main__":
-    print(teams())
+    scrape_contracts()
+    # remove_contracts()
