@@ -23,7 +23,7 @@
   },
   {
     "player_id":"jokicni01",
-    "name":"Nikola Joki\u0107",
+    "name":"Nikola Jokić",
     "team":"DEN",
     "2024-25":"$51,415,938",
     "2025-26":"$55,224,526",
@@ -188,7 +188,7 @@
   },
   {
     "player_id":"doncilu01",
-    "name":"Luka Don\u010di\u0107",
+    "name":"Luka Dončić",
     "team":"LAL",
     "2024-25":"$43,031,940",
     "2025-26":"$45,999,660",
@@ -595,7 +595,7 @@
   },
   {
     "player_id":"porzikr01",
-    "name":"Kristaps Porzi\u0146\u0123is",
+    "name":"Kristaps Porziņģis",
     "team":"BOS",
     "2024-25":"$29,268,293",
     "2025-26":"$30,731,707",
@@ -936,7 +936,7 @@
   },
   {
     "player_id":"vucevni01",
-    "name":"Nikola Vu\u010devi\u0107",
+    "name":"Nikola Vučević",
     "team":"CHI",
     "2024-25":"$20,000,000",
     "2025-26":"$21,481,481",
@@ -991,7 +991,7 @@
   },
   {
     "player_id":"bogdabo02",
-    "name":"Bojan Bogdanovi\u0107",
+    "name":"Bojan Bogdanović",
     "team":"BRK",
     "2024-25":"$19,032,850",
     "2025-26":null,
@@ -1046,7 +1046,7 @@
   },
   {
     "player_id":"nurkiju01",
-    "name":"Jusuf Nurki\u0107",
+    "name":"Jusuf Nurkić",
     "team":"PHO",
     "2024-25":"$18,125,000",
     "2025-26":"$19,375,000",
@@ -1090,7 +1090,7 @@
   },
   {
     "player_id":"bogdabo01",
-    "name":"Bogdan Bogdanovi\u0107",
+    "name":"Bogdan Bogdanović",
     "team":"ATL",
     "2024-25":"$17,260,000",
     "2025-26":"$16,020,000",
@@ -1321,7 +1321,7 @@
   },
   {
     "player_id":"schrode01",
-    "name":"Dennis Schr\u00f6der",
+    "name":"Dennis Schröder",
     "team":"GSW",
     "2024-25":"$13,025,250",
     "2025-26":null,
@@ -1805,7 +1805,7 @@
   },
   {
     "player_id":"valanjo01",
-    "name":"Jonas Valan\u010di\u016bnas",
+    "name":"Jonas Valančiūnas",
     "team":"SAC",
     "2024-25":"$9,900,000",
     "2025-26":"$10,395,000",
@@ -2190,7 +2190,7 @@
   },
   {
     "player_id":"micicva01",
-    "name":"Vasilije Mici\u0107",
+    "name":"Vasilije Micić",
     "team":"CHO",
     "2024-25":"$7,723,000",
     "2025-26":"$8,109,150",
@@ -2256,7 +2256,7 @@
   },
   {
     "player_id":"salauti01",
-    "name":"Tidjane Sala\u00fcn",
+    "name":"Tidjane Salaün",
     "team":"CHO",
     "2024-25":"$7,488,720",
     "2025-26":"$7,863,240",
@@ -2575,7 +2575,7 @@
   },
   {
     "player_id":"sengual01",
-    "name":"Alperen \u015eeng\u00fcn",
+    "name":"Alperen Şengün",
     "team":"HOU",
     "2024-25":"$5,424,654",
     "2025-26":"$33,944,954",
@@ -2608,7 +2608,7 @@
   },
   {
     "player_id":"bertada01",
-    "name":"D\u0101vis Bert\u0101ns",
+    "name":"Dāvis Bertāns",
     "team":"CHO",
     "2024-25":"$5,250,000",
     "2025-26":null,
@@ -2652,7 +2652,7 @@
   },
   {
     "player_id":"saricda01",
-    "name":"Dario \u0160ari\u0107",
+    "name":"Dario Šarić",
     "team":"DEN",
     "2024-25":"$5,168,000",
     "2025-26":"$5,426,400",
@@ -2729,7 +2729,7 @@
   },
   {
     "player_id":"topicni01",
-    "name":"Nikola Topi\u0107",
+    "name":"Nikola Topić",
     "team":"OKC",
     "2024-25":"$4,935,960",
     "2025-26":"$5,182,920",
@@ -3686,7 +3686,7 @@
   },
   {
     "player_id":"jovicni01",
-    "name":"Nikola Jovi\u0107",
+    "name":"Nikola Jović",
     "team":"MIA",
     "2024-25":"$2,464,200",
     "2025-26":"$4,445,417",
@@ -4291,7 +4291,7 @@
   },
   {
     "player_id":"cancavl01",
-    "name":"Vlatko \u010can\u010dar",
+    "name":"Vlatko Čančar",
     "team":"DEN",
     "2024-25":"$2,087,519",
     "2025-26":null,
@@ -4731,7 +4731,7 @@
   },
   {
     "player_id":"matkoka01",
-    "name":"Karlo Matkovi\u0107",
+    "name":"Karlo Matković",
     "team":"NOP",
     "2024-25":"$1,407,153",
     "2025-26":"$1,955,377",

@@ -1,3 +1,5 @@
+from idlelib.iomenu import encoding
+
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -69,12 +71,13 @@ def scrape_contracts():
 
 def remove_contracts():
     open("contracts.csv", "w").close()
-    json_contracts()
 
 
 def json_contracts():
     df = pd.read_csv("contracts.csv")  # Change to your CSV file
-    df.to_json("contract.json", orient="records", indent=2)
+
+    df.to_json("contract.json", orient="records", indent=2, force_ascii=False)
+
     print("Data saved to contract.json")
 
 
@@ -86,4 +89,4 @@ def teams():
 
 
 if __name__ == "__main__":
-    json_contracts()  # remove_contracts()
+    json_contracts()
