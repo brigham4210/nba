@@ -1,0 +1,54 @@
+/* Style for the table */
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Table headers */
+th {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+}
+
+/* Table rows */
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+/* Alternate row colors */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Hover effect */
+tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Image styling */
+td img {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Center the player images */
+td:nth-child(2) {
+    text-align: center;
+}
+
+/* Make the table responsive */
+@media (max-width: 768px) {
+    table {
+        font-size: 14px;
+    }
+    td, th {
+        padding: 8px;
+    }
+}

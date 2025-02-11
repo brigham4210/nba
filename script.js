@@ -92,11 +92,6 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
     filteredContracts.forEach(contract => {
         const row = document.createElement('tr');
 
-        // Player Name
-        const playerCell = document.createElement('td');
-        playerCell.textContent = contract.playerName;
-        row.appendChild(playerCell);
-
         // Player Image (with correct playerId)
         const imgCell = document.createElement('td');
         const img = document.createElement('img');
@@ -106,6 +101,11 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
         img.height = 90;
         imgCell.appendChild(img);
         row.appendChild(imgCell);
+
+        // Player Name
+        const playerCell = document.createElement('td');
+        playerCell.textContent = contract.playerName;
+        row.appendChild(playerCell);
 
         // Team Name
         const teamCell = document.createElement('td');
