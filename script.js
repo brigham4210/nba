@@ -120,7 +120,7 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
 loadCSV('contracts.csv', (data) => {
     const { teams, playersByTeam, allPlayers, years, contracts } = extractData(data);
     const teamLogo = document.getElementById('team-logo');
-
+    console.log(contracts);
     populateDropdown('team', teams);
     populateDropdown('year', years);
     populateDropdown('player', allPlayers);
