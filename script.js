@@ -91,6 +91,14 @@ loadCSV('contracts.csv', (data) => {
     document.getElementById('team').addEventListener('change', (event) => {
         const selectedTeam = event.target.value;
         filterPlayersByTeam(selectedTeam, playersByTeam, allPlayers);
+
+        // Get the team logo element
+        const teamLogo = document.getElementById('team-logo');
+
+        // Update the logo or use a default image if no team is selected
+        teamLogo.src = selectedTeam
+            ? `https://cdn.ssref.net/req/202502031/tlogo/bbr/${selectedTeam}-2025.png`
+            : 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png';
     });
 
     // Initialize player dropdown with all players
