@@ -8,6 +8,8 @@
   </head>
 <body>
     <form>
+        <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" alt="team-logo" id="team-logo">
+
         <label for="team">Team:</label>
         <select id="team" name="team">
             <option value="">Select a team</option>
@@ -23,6 +25,16 @@
             <option value="">Select a contract year</option>
         </select>
      </form>
-    <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" alt="team-logo" id="team-logo">
+    <table>
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>picture</th>
+                <th>Team</th>
+            </tr>
+        </thead>
+        <tbody id="contracts">
+        </tbody>
+    </table>
 </body>
 </html>
