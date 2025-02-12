@@ -1,92 +1,59 @@
-// Function to load and parse the CSV
-function loadCSV(file, callback) {
+// Function to load and parse the JSON
+function loadJson(file, callback) {
     fetch(file)
         .then(response => response.text())
         .then(data => callback(data))
-        .catch(error => console.error('Error loading the CSV:', error));
+        .catch(error => console.error('Error loading the JSON:', error));
 }
 
-// Function to extract teams, players, contract years, and contracts from CSV data
-function extractData(csvData) {
-    const rows = csvData.split('\n');
-    const headers = rows[0].split(',');
+function populateDropdown(id, options, placeholder = `Select a ${id}`) {
+    const dropdown = document.getElementById(id);
+    dropdown.innerHTML = ''; // Clear existing options
 
-    const teamIndex = headers.indexOf('team');
-    const nameIndex = headers.indexOf('name');
-    const playerIdIndex = headers.indexOf('player_id');
-    const yearColumns = headers.slice(3); // Contract years start from 4th column onward
+    const fragment = document.createDocumentFragment();
 
-    const teams = new Set();
-    const playersByTeam = {};
-    const allPlayers = [];
-    const years = new Set(yearColumns);
-    const contracts = [];
+    // Add placeholder option
+    const defaultOption = document.createElement('option');
+    defaultOption.value = '';
+    defaultOption.textContent = placeholder;
+    fragment.appendChild(defaultOption);
 
-    // Iterate through rows (skip header)
-    rows.slice(1).forEach(row => {
-        const cols = row.split(',');
-
-        if (cols[teamIndex] && cols[playerIdIndex]) {
-            const team = cols[teamIndex].trim();
-            const playerName = cols[nameIndex].trim();
-            const playerId = cols[playerIdIndex].trim(); // Store player_id properly
-            const contractDetails = {};
-
-            yearColumns.forEach((year, index) => {
-                contractDetails[year] = cols[index + 3]?.trim(); // Store contract data
-            });
-
-            teams.add(team);
-
-            if (!playersByTeam[team]) {
-                playersByTeam[team] = [];
-            }
-            playersByTeam[team].push(playerName);
-
-            if (!allPlayers.includes(playerName)) {
-                allPlayers.push(playerName);
-            }
-
-            contracts.push({ team, playerName, playerId, contractDetails }); // Include playerId
-        }
-    });
-
-    return {
-        teams: Array.from(teams).sort(),
-        playersByTeam,
-        allPlayers,
-        years: Array.from(years),
-        contracts
-    };
-}
-
-// Function to populate a dropdown
-function populateDropdown(selectId, options) {
-    const selectElement = document.getElementById(selectId);
-    selectElement.innerHTML = '<option value="">Select an option</option>';
-
+    // Add actual options
     options.forEach(option => {
         const opt = document.createElement('option');
         opt.value = option;
         opt.textContent = option;
-        selectElement.appendChild(opt);
+        fragment.appendChild(opt);
     });
+
+    dropdown.appendChild(fragment);
 }
 
-// Function to filter players by team
-function filterPlayersByTeam(selectedTeam, playersByTeam, allPlayers) {
-    populateDropdown('player', selectedTeam ? playersByTeam[selectedTeam] || [] : allPlayers);
+// Function to extract contract years dynamically
+function getContractYears(data) {
+    const allYears = new Set();
+    data.forEach(player => {
+        Object.keys(player).forEach(key => {
+            if (/^\d{4}-\d{2}$/.test(key)) { // Check if key is a year format (e.g., "2024-25")
+                allYears.add(key);
+            }
+        });
+    });
+    return [...allYears].sort(); // Sort years in ascending order
 }
 
 // Function to update the table based on selected filters
-function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
+function updateTable(data) {
     const tableBody = document.getElementById('contracts');
     tableBody.innerHTML = ''; // Clear existing rows
 
-    const filteredContracts = contracts.filter(contract =>
+    const selectedTeam = document.getElementById('team').value;
+    const selectedPlayer = document.getElementById('player').value;
+    const selectedYear = document.getElementById('year') ? document.getElementById('year').value : null;
+
+    const filteredContracts = data.filter(contract =>
         (!selectedTeam || contract.team === selectedTeam) &&
-        (!selectedPlayer || contract.playerName === selectedPlayer) &&
-        (!selectedYear || contract.contractDetails[selectedYear]) // Only include contracts with a value for the selected year
+        (!selectedPlayer || contract.name === selectedPlayer)
     );
 
     filteredContracts.forEach(contract => {
@@ -95,7 +62,7 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
         // Player Image (with correct playerId)
         const imgCell = document.createElement('td');
         const img = document.createElement('img');
-        img.src = `https://www.basketball-reference.com/req/202106291/images/headshots/${contract.playerId}.jpg`; // Use contract.playerId
+        img.src = `https://www.basketball-reference.com/req/202106291/images/headshots/${contract.player_id}.jpg`; // Use contract.playerId
         img.onerror = () => (img.src = 'https://via.placeholder.com/50'); // Fallback image
         img.width = 60;
         img.height = 90;
@@ -103,11 +70,11 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
         row.appendChild(imgCell);
 
         // Player Name
-        const playerCell = document.createElement('td');
-        playerCell.textContent = contract.playerName;
-        row.appendChild(playerCell);
+        const nameCell = document.createElement('td');
+        nameCell.textContent = contract.name;
+        row.appendChild(nameCell);
 
-        // Team Name
+        // Team
         const teamCell = document.createElement('td');
         teamCell.textContent = contract.team;
         row.appendChild(teamCell);
@@ -116,32 +83,36 @@ function updateTable(selectedTeam, selectedPlayer, selectedYear, contracts) {
     });
 }
 
-// Load CSV and set up event listeners
-loadCSV('contracts.csv', (data) => {
-    const { teams, playersByTeam, allPlayers, years, contracts } = extractData(data);
-    const teamLogo = document.getElementById('team-logo');
-    console.log(contracts);
-    populateDropdown('team', teams);
-    populateDropdown('year', years);
-    populateDropdown('player', allPlayers);
+// Load JSON and set up event listeners
+loadJson('contract.json', (data) => {
+    data = JSON.parse(data);
+    const team_logo = document.getElementById('team-logo');
 
+    const teams = [...new Set(data.map(player => player.team))].sort();
+    populateDropdown('team', teams);
+
+    const names = [...new Set(data.map(player => player.name))];
+    populateDropdown('player', names);
+
+    const years = getContractYears(data)
+    populateDropdown('year', years);
+
+    updateTable(data);
+    // Filter players by selected team
     document.getElementById('team').addEventListener('change', (event) => {
         const selectedTeam = event.target.value;
-        filterPlayersByTeam(selectedTeam, playersByTeam, allPlayers);
-        // Update the logo or use a default image if no team is selected
-        teamLogo.src = selectedTeam
-            ? `https://cdn.ssref.net/req/202502031/tlogo/bbr/${selectedTeam}.png`
+        const filteredPlayers = data.filter(player => player.team === selectedTeam);
+
+        // Update player dropdown with filtered players
+        const filteredNames = [...new Set(filteredPlayers.map(player => player.name))];
+        populateDropdown('player', filteredNames);
+
+        // Update team logo
+        team_logo.src = selectedTeam
+            ? `https://cdn.ssref.net/req/202502101/tlogo/bbr/${selectedTeam}-${new Date().getFullYear()}.png`
             : 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png';
-        updateTable(selectedTeam, document.getElementById('player').value, document.getElementById('year').value, contracts);
-    });
 
-    document.getElementById('player').addEventListener('change', (event) => {
-        updateTable(document.getElementById('team').value, event.target.value, document.getElementById('year').value, contracts);
+        // Update table with filtered players
+        updateTable(filteredPlayers);
     });
-
-    document.getElementById('year').addEventListener('change', (event) => {
-        updateTable(document.getElementById('team').value, document.getElementById('player').value, event.target.value, contracts);
-    });
-
-    updateTable('', '', '', contracts); // Initially load all data
 });
