@@ -44,8 +44,8 @@ function getContractYears(data) {
 
 // Function to update the table based on selected filters
 function updateTable(data) {
-    const tableBody = document.getElementById('contracts');
-    tableBody.innerHTML = ''; // Clear existing rows
+    const table = document.getElementById('contracts');
+    table.innerHTML = ''; // Clear existing content
 
     const selectedTeam = document.getElementById('team').value;
     const selectedPlayer = document.getElementById('player').value;
@@ -56,13 +56,32 @@ function updateTable(data) {
         (!selectedPlayer || contract.name === selectedPlayer)
     );
 
+    // Get all contract years dynamically
+    const years = selectedYear ? [selectedYear] : getContractYears(data);
+
+    // Create Table Header
+    const thead = document.createElement('thead');
+    const headerRow = document.createElement('tr');
+
+    ['', 'Player', 'Team', ...years].forEach(text => {
+        const th = document.createElement('th');
+        th.textContent = text;
+        headerRow.appendChild(th);
+    });
+
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+
+    // Create Table Body
+    const tbody = document.createElement('tbody');
+
     filteredContracts.forEach(contract => {
         const row = document.createElement('tr');
 
-        // Player Image (with correct playerId)
+        // Player Image
         const imgCell = document.createElement('td');
         const img = document.createElement('img');
-        img.src = `https://www.basketball-reference.com/req/202106291/images/headshots/${contract.player_id}.jpg`; // Use contract.playerId
+        img.src = `https://www.basketball-reference.com/req/202106291/images/headshots/${contract.player_id}.jpg`;
         img.onerror = () => (img.src = 'https://via.placeholder.com/50'); // Fallback image
         img.width = 60;
         img.height = 90;
@@ -79,8 +98,17 @@ function updateTable(data) {
         teamCell.textContent = contract.team;
         row.appendChild(teamCell);
 
-        tableBody.appendChild(row);
+        // Contract details
+        years.forEach(year => {
+            const contractCell = document.createElement('td');
+            contractCell.textContent = contract[year] || '-';
+            row.appendChild(contractCell);
+        });
+
+        tbody.appendChild(row);
     });
+
+    table.appendChild(tbody);
 }
 
 // Load JSON and set up event listeners
