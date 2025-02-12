@@ -101,7 +101,9 @@ loadJson('contract.json', (data) => {
     // Filter players by selected team
     document.getElementById('team').addEventListener('change', (event) => {
         const selectedTeam = event.target.value;
-        const filteredPlayers = data.filter(player => player.team === selectedTeam);
+        const filteredPlayers = selectedTeam
+            ? data.filter(player => player.team === selectedTeam)
+            : data;
 
         // Update player dropdown with filtered players
         const filteredNames = [...new Set(filteredPlayers.map(player => player.name))];
