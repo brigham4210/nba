@@ -43,12 +43,21 @@ function updateTable(data) {
     const selectedPlayer = document.getElementById('player').value;
     const selectedYear = document.getElementById('year')?.value || null;
 
-    const filteredContracts = data.filter(player =>
+    let filteredContracts = data.filter(player =>
         (!selectedTeam || player.team === selectedTeam) &&
         (!selectedPlayer || player.name === selectedPlayer)
     );
 
     const years = selectedYear ? [selectedYear] : getContractYears(data);
+
+    // Sort by salary if a specific year is selected
+    if (selectedYear) {
+        filteredContracts.sort((a, b) => {
+            const salaryA = parseSalary(a[selectedYear]);
+            const salaryB = parseSalary(b[selectedYear]);
+            return salaryB - salaryA; // Sort descending (highest salary first)
+        });
+    }
 
     // Create table header
     const thead = document.createElement('thead');
@@ -78,6 +87,12 @@ function updateTable(data) {
     });
 
     table.appendChild(tbody);
+}
+
+// Convert salary string to a number (handle cases with "$" and ",")
+function parseSalary(salary) {
+    if (!salary) return 0;
+    return Number(salary.replace(/[$,]/g, '')) || 0;
 }
 
 // Create a table cell with an image
