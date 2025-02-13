@@ -145,4 +145,12 @@ loadJson('contract.json', (data) => {
         // Update table with filtered players
         updateTable(filteredPlayers);
     });
+    document.getElementById('year').addEventListener('change', () => {
+        const selectedTeam = document.getElementById('team').value;
+        const filteredPlayers = selectedTeam
+            ? data.filter(player => player.team === selectedTeam)
+            : data;
+        // Update table with filtered players
+        updateTable(filteredPlayers);
+    });
 });
