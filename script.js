@@ -36,6 +36,7 @@ function getContractYears(data) {
 
 // Update contracts table based on filters
 function updateTable(data) {
+    updateGauge(data);
     const table = document.getElementById('contracts');
     table.innerHTML = '';
 
@@ -127,6 +128,28 @@ function handleFilterChange(data) {
 
     updateTable(filteredPlayers);
 }
+
+// Yearly expense
+function updateGauge(data) {
+    const selectedTeam = document.getElementById('team').value;
+    const selectedYear = document.getElementById('year').value;
+    const gaugeContainer = document.getElementById('gauge-container');
+    const gauge = document.getElementById('gauge');
+    const gaugeValue = document.getElementById('gauge-value');
+
+    if (selectedTeam && selectedYear) {
+        let totalSalary = data
+            .filter(player => player.team === selectedTeam)
+            .reduce((sum, player) => sum + parseSalary(player[selectedYear] || '0'), 0);
+
+        gauge.value = totalSalary;
+        gaugeValue.textContent = `$${totalSalary.toLocaleString()}`;
+        gaugeContainer.style.display = 'block';
+    } else {
+        gaugeContainer.style.display = 'none';
+    }
+}
+
 
 // Initialize data and event listeners
 loadJson('contract.json', data => {
