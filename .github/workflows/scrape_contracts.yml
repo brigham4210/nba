@@ -17,7 +17,7 @@ jobs:
           python-version: "3.13"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pandas
 
       - name: Run scraper
         run: python -c "from contract import scrape_contracts; scrape_contracts()"
