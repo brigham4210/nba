@@ -132,7 +132,10 @@ function handleFilterChange(data) {
 // Yearly expense
 function updateGauge(data) {
     const selectedTeam = document.getElementById('team').value;
-    const selectedYear = document.getElementById('year').value;
+    let selectedYear = document.getElementById('year').value;
+    if (!selectedYear) {
+        selectedYear = "2024-25"
+    };
     const gaugeContainer = document.getElementById('gauge-container');
     const gauge = document.getElementById('gauge');
     const gaugeValue = document.getElementById('gauge-value');
